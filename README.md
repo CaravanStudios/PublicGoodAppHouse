@@ -5,7 +5,7 @@ That's why TechSoup has partnered with the Filecoin Foundation for the Decentral
 
 Over the next year we will bring community members together in a space that celebrates the expertise of both developers and Civil Society Decision-Makers. And, we will provide insight and support to foundations and other potential funders in order to bring financial support to public good technology projects built on DWeb technology. 
 
-##How You Can Get Involved
+## How You Can Get Involved
 
 1. Download our first explainer, ["What is the Decentralized Web?"](https://page.techsoup.org/explainer-what-is-the-decentralized-web) By providing your contact information, you'll be notified of upcoming Accelerating Makers events and project updates. 
 2. Sign-up for one of our [upcoming events](https://events.techsoup.org/public-good-app-house/)
