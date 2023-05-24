@@ -11,6 +11,7 @@ This makes blockchain a foundation of the DWeb. It also offers benefits that ali
 
 ## How are civil society organizations already using the DWeb?
 `Organization: United Nations`
+
 `Use case: Identity`
 This puts users in control of their personal data, making it safer for beneficiaries to register and withdraw funds.
 [The United Nations Refugee Agency](https://www.unhcr.org/what-we-do/protect-human-rights/protection/registration-and-identity-management) (UNHCR) is using DID technology to create a digital identity system for refugees. This system is still in its pilot phase, but it will allow refugees to verify their identity and access services more easily.
@@ -58,8 +59,8 @@ by Shermin Voshmgir, Vienna University. This book is a comprehensive guide to th
 ### [Purpose-Driven Tokens](https://rossdawson.com/futurist/companies-creating-future/purpose-driven-tokens-solving-problems-crypto/)
 by Matthew Jackson, Elyptik. This article covers some of the experiments in using blockchain to achieve civil society (or adjacent) aims, as well as some of the success (and failure) factors we can learn from them.
 
- --
-This explainer was supported by an award from the [Filecoin Foundation for the Decentralized Web](https://ffdweb.org/).
- --
+
+_This explainer was supported by an award from the [Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)._
+ 
 
 🔽 PDF Download: [web3-for-nonprofits-042423-b.pdf](https://github.com/CaravanStudios/acceleratingmakers/files/11559273/web3-for-nonprofits-042423-b.pdf)
