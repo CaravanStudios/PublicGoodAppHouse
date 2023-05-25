@@ -21,8 +21,8 @@ This puts users in control of their personal data, making it safer for beneficia
 The blockchain is a transparent record of transactions, making it possible to verify the provenance of resources.
 The WWF [OpenSC](https://opensc.org/) project uses blockchain technology to track the provenance of products such as palm oil and tuna, ensuring that consumers and businesses can verify a product’s origin, journey, and impact.
 
-`Organization: World Food Programme`
-`Use case: Financial support`
+Organization: `World Food Programme`
+Use case: `Financial support`
 The borderless nature of blockchain means that projects can raise funds easily and internationally, while donors can verify how their funds are used.
 The WFP’s [Building Blocks](https://innovation.wfp.org/project/building-blocks) project uses blockchain to enable and track the distribution of cash assistance to refugees. It has assisted 1 million people in Jordan and Bangladesh and is being rolled out to other countries in the MENA region.
 
@@ -62,5 +62,7 @@ by Matthew Jackson, Elyptik. This article covers some of the experiments in usin
 
 _This explainer was supported by an award from the [Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)._
  
+`We welcome your edits and corrections to this Explainer via GitHub.`
+
 
 🔽 PDF Download: [web3-for-nonprofits-042423-b.pdf](https://github.com/CaravanStudios/acceleratingmakers/files/11559273/web3-for-nonprofits-042423-b.pdf)
