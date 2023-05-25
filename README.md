@@ -1,4 +1,4 @@
-# Accelerating Makers
+# Public Good App House
 TechSoup knows that innovating with even well-established technology is difficult for many nonprofits — much less emerging solutions like AI, big data, or the decentralized web (DWeb). Our research shows that these developers of civil society-focused software lack sufficient data, tools, and funding to create sustainable solutions. Furthermore, they struggle to tell the story of their impact, which makes securing clients and funders more difficult.
 
 That's why TechSoup has partnered with the Filecoin Foundation for the Decentralized Web (FFDW) to launch Accelerating Makers. We aim to increase the number of mission-specific tools that can be effectively used by civil society organizations, starting with DWeb solutions. We will also train Makers to be more effective storytellers of their impact, helping them to grow. 
