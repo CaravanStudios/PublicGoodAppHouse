@@ -5,7 +5,7 @@ At TechSoup, we want every civil society organization in the world to have techn
 ## The Problem
 Too often, we have tried to meet the unique needs of civil society with digital solutions that were built to be used, supported and scaled up in a for profit setting, to achieve for-profit goals. 
 
-In a review of existing research and interviews with more than TK# of people who make public good technology, we learned that those building these tools lack the support necessary to effectively meet the needs of civil society. 
+In a review of existing research and interviews with people who make public good technology, we learned that those building these tools lack the support necessary to effectively meet the needs of civil society. 
 
 The issue boils down to this: the makers, people who possess the skills to invent and welcome new digital tools and solutions - small applications that could render our society's technological backbone not just more durable, but also more flexible, lack a shared set of data, tools and standards to describe the impact of their solutions in ways that create pathways to funding, adoption, and impact. 
 
