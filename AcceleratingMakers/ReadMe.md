@@ -10,3 +10,5 @@ Over the next year we will bring community members together in a space that cele
 1. Download our first explainer, ["What is the Decentralized Web?"](https://page.techsoup.org/explainer-what-is-the-decentralized-web) By providing your contact information, you'll be notified of upcoming Accelerating Makers events and project updates. 
 2. Sign-up for one of our [upcoming events](https://events.techsoup.org/public-good-app-house/)
 3. Please email us with your projects or ideas around what you want to learn about at upcoming events. You can email us directly at makerlabs@techsoup.org
+4. Join our [Slack group]([url](https://join.slack.com/t/publicgoodapphouse/shared_invite/zt-1y3cho72u-kujUt7KTa_XfJMedmcorpQ))
+5. Subscribe to our [Maker newsletter]([url](https://page.techsoup.org/pgah-makers-subscribe)https://page.techsoup.org/pgah-makers-subscribe)
