@@ -96,70 +96,61 @@ Anchored at the International Institute of Information Technology, Bangalore (II
 * “How Digital ID Is Changing Civic Space” (Digital Impact): [https://digitalimpact.io/the-upgrade-initiative/guess-who-how-digital-id-is-changing-civic-space/](https://digitalimpact.io/the-upgrade-initiative/guess-who-how-digital-id-is-changing-civic-space/) 
 * “Digital ID: A key to inclusive growth (McKinsey Global Institute, April 2019): [https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth#section-header-1](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth#section-header-1) 
 
-    **See Also: **[Proof of Humanity](https://proofofhumanity.id/)
+**See Also:** [Proof of Humanity](https://proofofhumanity.id/)
 
-4. **Verifying Media Truth / Legitimacy **
+### 4. Verifying Media Truth / Legitimacy
 
-    Human rights defenders, civic journalists and critical truth-tellers in communities facing human rights violations are some of the populations often targeted for their work and told their media are lies.** **DWeb technologies can help fight misinformation by adding a layer of verifiable trust to all types of digital content, including documents, photos, and videos through provenance and attribution solutions. Similar to supply chain tracking, “data provenance” is a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. 
-
-
-    Depending on the project, it may be desirable to use a decentralized, immutable data technology, such as a distributed ledger or blockchain, to underwrite the integrity of the “manifest repository” or the digital location where information about the data asset is stored. It is important to note that, for safety or privacy reasons, someone might want to remove certain data from the repository, which would not be possible if the data is stored on a distributed ledger or blockchain. However, blockchains are useful for recording the event of the redaction, which can help build trust among users of the data.
+Human rights defenders, civic journalists and critical truth-tellers in communities facing human rights violations are some of the populations often targeted for their work and told their media are lies.** **DWeb technologies can help fight misinformation by adding a layer of verifiable trust to all types of digital content, including documents, photos, and videos through provenance and attribution solutions. Similar to supply chain tracking, “data provenance” is a documented trail that accounts for the origin of a piece of data and where it has moved from to where it is presently. 
 
 
-    **Example: [Content Authenticity Initiative](https://contentauthenticity.org/)**
+Depending on the project, it may be desirable to use a decentralized, immutable data technology, such as a distributed ledger or blockchain, to underwrite the integrity of the “manifest repository” or the digital location where information about the data asset is stored. It is important to note that, for safety or privacy reasons, someone might want to remove certain data from the repository, which would not be possible if the data is stored on a distributed ledger or blockchain. However, blockchains are useful for recording the event of the redaction, which can help build trust among users of the data.
 
 
-    The Content Authenticity Initiative is a community of researchers and developers building an ecosystem of open source tools and software development kits (SDKs) for working with digital content provenance creation and validation. Their technology uses a cryptographic asset hashing to provide verifiable, tamper-evident signatures that an image and its metadata hasn’t been unknowingly altered. At creation, the creator can choose what information to attach to the content being created. Throughout this process, the creator of content can choose to preserve attribution or to remain anonymous. Preservation of privacy for creators is central to this project.
+ #### Example: [Content Authenticity Initiative](https://contentauthenticity.org/)
+ 
+The Content Authenticity Initiative is a community of researchers and developers building an ecosystem of open source tools and software development kits (SDKs) for working with digital content provenance creation and validation. Their technology uses a cryptographic asset hashing to provide verifiable, tamper-evident signatures that an image and its metadata hasn’t been unknowingly altered. At creation, the creator can choose what information to attach to the content being created. Throughout this process, the creator of content can choose to preserve attribution or to remain anonymous. Preservation of privacy for creators is central to this project.
 
 
-    **Key People:**
+**Key People:**
+
+* [Gabi Ivens](https://www.hrw.org/about/people/gabriela-ivens) (Activist)
+* [Harlo Holmes](https://freedom.press/people/harlo-holmes/) (Activist)
+* [Nathan Freitas](https://www.linkedin.com/in/nathanfreitas/) (ProofMode)
 
 
-    [Gabi Ivens](https://www.hrw.org/about/people/gabriela-ivens) (Activist)
-
-
-    [Harlo Holmes](https://freedom.press/people/harlo-holmes/) (Activist)
-
-
-    [Nathan Freitas](https://www.linkedin.com/in/nathanfreitas/) (ProofMode)
-
-
-    **Learn More:**
+**Learn More:**
 
 * Open-source tools for content authenticity and provenance (Content Authenticity Initiative): [https://opensource.contentauthenticity.org/docs/introduction](https://opensource.contentauthenticity.org/docs/introduction)
 * “The Adobe Content Authenticity Initiative approach to authenticity infrastructure against media manipulation” (WITNESS): [https://blog.witness.org/2020/08/adobe-content-authenticity-initiative-approach-authenticity-infrastructure-media-manipulation/#:~:text=WITNESS's%20work%20on%20authenticity%20infrastructure&text=Every%20day%2C%20the%20stakes,to%20discern%20truth%20from%20falsehood](https://blog.witness.org/2020/08/adobe-content-authenticity-initiative-approach-authenticity-infrastructure-media-manipulation/#:~:text=WITNESS's%20work%20on%20authenticity%20infrastructure&text=Every%20day%2C%20the%20stakes,to%20discern%20truth%20from%20falsehood).
 * “Building a validity scorecard in the age of AI” (Tech Brew, April 2023): [https://www.emergingtechbrew.com/stories/2023/04/25/adobe-initiative-ai-images](https://www.emergingtechbrew.com/stories/2023/04/25/adobe-initiative-ai-images) 
 
-    **See Also: **[ProofMode](https://proofmode.org/), [WITNESS](https://blog.witness.org/), [ANSA](https://www.ansa.it/english/news/science_tecnology/2020/04/06/ansa-using-blockchain-to-help-readers_af820b4f-0947-439b-843e-52e114f53318.html), [C2PA](https://c2pa.org/) (by the [Content Authenticity Initiative](https://contentauthenticity.org/))
+**See Also:**[ProofMode](https://proofmode.org/), [WITNESS](https://blog.witness.org/), [ANSA](https://www.ansa.it/english/news/science_tecnology/2020/04/06/ansa-using-blockchain-to-help-readers_af820b4f-0947-439b-843e-52e114f53318.html), [C2PA](https://c2pa.org/) (by the [Content Authenticity Initiative](https://contentauthenticity.org/))
 
-5. **Digital Archiving**
+#### 5. Digital Archiving
 
-    Decentralized data storage solutions enable data to be distributed across a global network of nodes rather than a centralized collection of servers owned by traditional corporate cloud storage providers which can be vulnerable to security breaches, outages, and monopolistic practices. The potential benefits of decentralized data storage solutions include enhanced security, user control, and affordability. The network’s consensus mechanisms ensure the secure storage and retrieval of data, maintaining the integrity of the stored files at all times. 
-
-
-    There are a few different options when it comes to decentralized alternatives to traditional cloud storage providers including Filecoin. Filecoin is an open-source cloud storage network that works complementary with the InterPlanetary File System (IPFS), a novel decentralized web protocol designed as an alternative to the traditional HTTP protocol. Importantly, Filecoin’s Virtual Machine (FVM) enables Web3 developers to build decentralized applications (dApps) and data decentralized autonomous organizations (DAOs) on top of their storage infrastructure.
+Decentralized data storage solutions enable data to be distributed across a global network of nodes rather than a centralized collection of servers owned by traditional corporate cloud storage providers which can be vulnerable to security breaches, outages, and monopolistic practices. The potential benefits of decentralized data storage solutions include enhanced security, user control, and affordability. The network’s consensus mechanisms ensure the secure storage and retrieval of data, maintaining the integrity of the stored files at all times. 
 
 
-    **Example: [Starling Lab](https://www.starlinglab.org/) - The Testimony of Genocide**.
+There are a few different options when it comes to decentralized alternatives to traditional cloud storage providers including Filecoin. Filecoin is an open-source cloud storage network that works complementary with the InterPlanetary File System (IPFS), a novel decentralized web protocol designed as an alternative to the traditional HTTP protocol. Importantly, Filecoin’s Virtual Machine (FVM) enables Web3 developers to build decentralized applications (dApps) and data decentralized autonomous organizations (DAOs) on top of their storage infrastructure.
+
+
+#### Example: [Starling Lab](https://www.starlinglab.org/) - The Testimony of Genocide
 
 
     The teams at Starling Lab and the USC Shoah Foundation deployed the Starling Framework to cryptographically capture the testimonies of 55,000 genocidal survivors from the Holocaust, the Armenian Genocide, and the Rohingya crisis. First, the teams uploaded all of the USC Shoah Foundation’s current data (tex, images, videos) to IPFS and Filecoin so that it could be stored securely and protected through decentralization on-chain. From there, multiple organizations are invited to contribute to storing this data and experts brought in to verify the footage, contributing to the increased security and validity of the archive. Finally, this protocol created a chain of custody standard that could be utilized right from the start to capture, store, and verify new interviews from survivors.
 
-
-    **Key People:**
-
-
-    [Jonathan Dotan](https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information) (Founding Director)
+**Key People:**
 
 
-    [Adam Rose](https://www.linkedin.com/in/adjoro/) (COO)
+* [Jonathan Dotan](https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information) (Founding Director)
+* [Adam Rose](https://www.linkedin.com/in/adjoro/) (COO)
 
 
-    **Learn More:**
+**Learn More:**
 
 * “Inside Starling Lab, a moonshot project to preserve the world’s most important information” (Fast Company, 2022): [https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information](https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information) 
 * “What is Filecoin? The leading decentralized storage network” (CoinTelegraph): [https://cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network](https://cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network) 
 * “Starling Lab: Establishing Trust for Humanity’s Data” (Filecoin, June 2021): [https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/](https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/) 
-* 
+  
 
-**See Also: **[Internet Archive](https://archive.org/), [Zarr](https://github.com/zarr-developers), [GainForest](https://gainforest.app/)
+**See Also:** [Internet Archive](https://archive.org/), [Zarr](https://github.com/zarr-developers), [GainForest](https://gainforest.app/)
