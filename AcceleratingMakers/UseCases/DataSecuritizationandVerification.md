@@ -130,14 +130,12 @@ The Content Authenticity Initiative is a community of researchers and developers
 
 Decentralized data storage solutions enable data to be distributed across a global network of nodes rather than a centralized collection of servers owned by traditional corporate cloud storage providers which can be vulnerable to security breaches, outages, and monopolistic practices. The potential benefits of decentralized data storage solutions include enhanced security, user control, and affordability. The network’s consensus mechanisms ensure the secure storage and retrieval of data, maintaining the integrity of the stored files at all times. 
 
-
 There are a few different options when it comes to decentralized alternatives to traditional cloud storage providers including Filecoin. Filecoin is an open-source cloud storage network that works complementary with the InterPlanetary File System (IPFS), a novel decentralized web protocol designed as an alternative to the traditional HTTP protocol. Importantly, Filecoin’s Virtual Machine (FVM) enables Web3 developers to build decentralized applications (dApps) and data decentralized autonomous organizations (DAOs) on top of their storage infrastructure.
 
 
 #### Example: [Starling Lab](https://www.starlinglab.org/) - The Testimony of Genocide
 
-
-    The teams at Starling Lab and the USC Shoah Foundation deployed the Starling Framework to cryptographically capture the testimonies of 55,000 genocidal survivors from the Holocaust, the Armenian Genocide, and the Rohingya crisis. First, the teams uploaded all of the USC Shoah Foundation’s current data (tex, images, videos) to IPFS and Filecoin so that it could be stored securely and protected through decentralization on-chain. From there, multiple organizations are invited to contribute to storing this data and experts brought in to verify the footage, contributing to the increased security and validity of the archive. Finally, this protocol created a chain of custody standard that could be utilized right from the start to capture, store, and verify new interviews from survivors.
+The teams at Starling Lab and the USC Shoah Foundation deployed the Starling Framework to cryptographically capture the testimonies of 55,000 genocidal survivors from the Holocaust, the Armenian Genocide, and the Rohingya crisis. First, the teams uploaded all of the USC Shoah Foundation’s current data (tex, images, videos) to IPFS and Filecoin so that it could be stored securely and protected through decentralization on-chain. From there, multiple organizations are invited to contribute to storing this data and experts brought in to verify the footage, contributing to the increased security and validity of the archive. Finally, this protocol created a chain of custody standard that could be utilized right from the start to capture, store, and verify new interviews from survivors.
 
 **Key People:**
 
