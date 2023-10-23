@@ -34,11 +34,11 @@ OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventu
 
 **Learn More:**
 
-* “World first: revolutionary blockchain platform empowers all to track environmental and ethical impact of food and products” (WWF, 2019): [https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) 
-* “Greener Supply Chains. Verified by AI and Blockchain” (BCG X): [https://www.bcg.com/x/mark-your-moment/blockchain-social-good](https://www.bcg.com/x/mark-your-moment/blockchain-social-good) 
-* OpenSC (BCG Digital Ventures):** **[https://bcgdv.com/our-work/opensc/](https://bcgdv.com/our-work/opensc/) 
-* “Building a Transparent Supply Chain” (Harvard Business Review, May-June 2020): [https://hbr.org/2020/05/building-a-transparent-supply-chain](https://hbr.org/2020/05/building-a-transparent-supply-chain) 
-* Open SC Wikipedia: [https://en.wikipedia.org/wiki/OpenSC_(company)](https://en.wikipedia.org/wiki/OpenSC_(company)) 
+* [“World first: revolutionary blockchain platform empowers all to track environmental and ethical impact of food and products”](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) (WWF, 2019)
+* [“Greener Supply Chains. Verified by AI and Blockchain”](https://www.bcg.com/x/mark-your-moment/blockchain-social-good) (BCG X)
+* [OpenSC](https://bcgdv.com/our-work/opensc/) (BCG Digital Ventures) 
+* [“Building a Transparent Supply Chain”](https://hbr.org/2020/05/building-a-transparent-supply-chain) (Harvard Business Review, May-June 2020)
+* [Open SC Wikipedia](https://en.wikipedia.org/wiki/OpenSC_(company)
 
 **See Also:** [Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/))
 
@@ -59,14 +59,14 @@ Evercity combines blockchain with monitoring tools to increase data transparency
 
 **Key People:**
 
-* [Alexey Shadrin](https://www.linkedin.com/in/alexeyshadrin/?originalSubdomain=de) (Co-Founder)
-* [Liza Romanova](https://www.linkedin.com/in/lizaromanova/?originalSubdomain=de) (Co-Founder)
+* [Alexey Shadrin](https://www.linkedin.com/in/alexeyshadrin/) (Co-Founder)
+* [Liza Romanova](https://www.linkedin.com/in/lizaromanova/) (Co-Founder)
 
 
 **Learn More**
 
-* What You Need to Know About the Measurement, Reporting, and Verification (MRV) of Carbon Credits (The World Bank, July 2022): [https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) 
-* Evercity Github: [https://github.com/EvercityEcosystem](https://github.com/EvercityEcosystem)
+* [What You Need to Know About the Measurement, Reporting, and Verification (MRV) of Carbon Credits](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) (The World Bank, July 2022)
+* [Evercity Github](https://github.com/EvercityEcosystem)
 * “Open source blockchain protocol for Sustainable bonds will fight impact washing” (Medium, 2020): [https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2](https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2)
 
 ### 3. Digital Identification Management
