@@ -8,6 +8,7 @@ Besides for financial transactions, decentralized technologies can be leveraged 
 Blockchains and other distributed data storage systems store copies of the data across a network of computers, all of which come together to validate that the data is accurate and has only been recorded once. This securitization and verification process, known as a “consensus mechanism,” makes the technology suitable for nonprofit objectives such as supply chain tracking, impact reporting, distributing media, archiving historical data, and supporting vulnerable populations with digital identity systems.
 
 Decentralized technologies can provide many advantages to nonprofits that collect and utilize data for their work–including cost-efficiency. Other advantages of DWeb technologies are that they can make data processes more transparent, verifiable, easily traceable, and accessible to those relying on it.
+
 ![Data Securitization   Verification Use Case](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/040f77d2-2d1e-414e-8063-29e520758727)
 
 
