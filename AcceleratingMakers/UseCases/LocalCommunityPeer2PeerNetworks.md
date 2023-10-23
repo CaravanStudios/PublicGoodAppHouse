@@ -54,7 +54,7 @@ NYC Mesh is a community Wi-Fi initiative that offers an affordable way to circum
 
 
 
-### 3  Private Browsing
+### 3.  Private Browsing
 
 Web browsers are among the types of software applications that can be built atop decentralized networks of servers operated and governed by a diversity of volunteer notes. DWeb browsers can be more private, censorship-resistant and surveillance-free than their corporate-owned alternatives such as Google Chrome and Apple’s Safari.
 
