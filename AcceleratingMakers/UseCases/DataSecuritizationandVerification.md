@@ -149,7 +149,7 @@ There are a few different options when it comes to decentralized alternatives to
 **Learn More:**
 
 * [“Inside Starling Lab, a moonshot project to preserve the world’s most important information”](https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information) (Fast Company, 2022)
-* [“What is Filecoin? The leading decentralized storage network”](https:/cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network) (CoinTelegraph)
+* [“What is Filecoin? The leading decentralized storage network”](https://cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network) (CoinTelegraph)
 * [“Starling Lab: Establishing Trust for Humanity’s Data”](https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/) (Filecoin, June 2021)
   
 
