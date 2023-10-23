@@ -40,7 +40,7 @@ OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventu
 * “Building a Transparent Supply Chain” (Harvard Business Review, May-June 2020): [https://hbr.org/2020/05/building-a-transparent-supply-chain](https://hbr.org/2020/05/building-a-transparent-supply-chain) 
 * Open SC Wikipedia: [https://en.wikipedia.org/wiki/OpenSC_(company)](https://en.wikipedia.org/wiki/OpenSC_(company)) 
 
-  **See Also: **[Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/)) \
+**See Also:** [Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/)) \
 
 
 ### 2. Impact Reporting
