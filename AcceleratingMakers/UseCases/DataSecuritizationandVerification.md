@@ -16,7 +16,7 @@ Decentralized technologies can provide many advantages to nonprofits that collec
 
 
 
-### 1. **Supply Chain Tracking**
+### 1. Supply Chain Tracking
 
     One of the most promising applications of emerging blockchain technology is supply chain management. Blockchain can help supply chain partners with some of their challenges by creating a complete, transparent, tamperproof history of the information flows, inventory flows, and financial flows in transactions.
 
