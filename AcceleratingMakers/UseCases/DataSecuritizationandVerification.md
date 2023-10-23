@@ -120,11 +120,11 @@ The Content Authenticity Initiative is a community of researchers and developers
 
 **Learn More:**
 
-* Open-source tools for content authenticity and provenance (Content Authenticity Initiative): [https://opensource.contentauthenticity.org/docs/introduction](https://opensource.contentauthenticity.org/docs/introduction)
-* “The Adobe Content Authenticity Initiative approach to authenticity infrastructure against media manipulation” (WITNESS): [https://blog.witness.org/2020/08/adobe-content-authenticity-initiative-approach-authenticity-infrastructure-media-manipulation/#:~:text=WITNESS's%20work%20on%20authenticity%20infrastructure&text=Every%20day%2C%20the%20stakes,to%20discern%20truth%20from%20falsehood](https://blog.witness.org/2020/08/adobe-content-authenticity-initiative-approach-authenticity-infrastructure-media-manipulation/#:~:text=WITNESS's%20work%20on%20authenticity%20infrastructure&text=Every%20day%2C%20the%20stakes,to%20discern%20truth%20from%20falsehood).
-* “Building a validity scorecard in the age of AI” (Tech Brew, April 2023): [https://www.emergingtechbrew.com/stories/2023/04/25/adobe-initiative-ai-images](https://www.emergingtechbrew.com/stories/2023/04/25/adobe-initiative-ai-images) 
+* [Open-source tools for content authenticity and provenance](https://opensource.contentauthenticity.org/docs/introduction) (Content Authenticity Initiative)
+* [“The Adobe Content Authenticity Initiative approach to authenticity infrastructure against media manipulation”](https://blog.witness.org/2020/08/adobe-content-authenticity-initiative-approach-authenticity-infrastructure-media-manipulation/#:~:text=WITNESS's%20work%20on%20authenticity%20infrastructure&text=Every%20day%2C%20the%20stakes,to%20discern%20truth%20from%20falsehood) (WITNESS)
+* [“Building a validity scorecard in the age of AI”](https://www.emergingtechbrew.com/stories/2023/04/25/adobe-initiative-ai-images) (Tech Brew, April 2023)
 
-**See Also:**[ProofMode](https://proofmode.org/), [WITNESS](https://blog.witness.org/), [ANSA](https://www.ansa.it/english/news/science_tecnology/2020/04/06/ansa-using-blockchain-to-help-readers_af820b4f-0947-439b-843e-52e114f53318.html), [C2PA](https://c2pa.org/) (by the [Content Authenticity Initiative](https://contentauthenticity.org/))
+**See Also:** [ProofMode](https://proofmode.org/), [WITNESS](https://blog.witness.org/), [ANSA](https://www.ansa.it/english/news/science_tecnology/2020/04/06/ansa-using-blockchain-to-help-readers_af820b4f-0947-439b-843e-52e114f53318.html), [C2PA](https://c2pa.org/) (by the [Content Authenticity Initiative](https://contentauthenticity.org/))
 
 #### 5. Digital Archiving
 
@@ -148,9 +148,9 @@ There are a few different options when it comes to decentralized alternatives to
 
 **Learn More:**
 
-* “Inside Starling Lab, a moonshot project to preserve the world’s most important information” (Fast Company, 2022): [https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information](https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information) 
-* “What is Filecoin? The leading decentralized storage network” (CoinTelegraph): [https://cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network](https://cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network) 
-* “Starling Lab: Establishing Trust for Humanity’s Data” (Filecoin, June 2021): [https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/](https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/) 
+* [“Inside Starling Lab, a moonshot project to preserve the world’s most important information”](https://www.fastcompany.com/90731729/inside-starling-lab-a-moonshot-project-to-preserve-the-worlds-most-important-information) (Fast Company, 2022)
+* [“What is Filecoin? The leading decentralized storage network”](https:/cointelegraph.com/learn/what-is-filecoin-the-leading-decentralized-storage-network) (CoinTelegraph)
+* [“Starling Lab: Establishing Trust for Humanity’s Data”](https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/) (Filecoin, June 2021)
   
 
 **See Also:** [Internet Archive](https://archive.org/), [Zarr](https://github.com/zarr-developers), [GainForest](https://gainforest.app/)
