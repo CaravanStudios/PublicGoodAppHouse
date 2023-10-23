@@ -23,9 +23,8 @@ The Giving Block is the largest online platform helping nonprofits to accept non
 
 **Key People:**
 
-[Alex Wilson](https://thegivingblock.com/updates/profiles/alex-wilson/) (Co-founder)
-
-[Pat Duffy](https://thegivingblock.com/updates/profiles/pat-duffy/) (Co-founder)
+* [Alex Wilson](https://thegivingblock.com/updates/profiles/alex-wilson/) (Co-founder)
+* [Pat Duffy](https://thegivingblock.com/updates/profiles/pat-duffy/) (Co-founder)
 
 **Learn More:**
 
