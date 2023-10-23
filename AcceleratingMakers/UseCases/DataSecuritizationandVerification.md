@@ -40,7 +40,7 @@ OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventu
 * “Building a Transparent Supply Chain” (Harvard Business Review, May-June 2020): [https://hbr.org/2020/05/building-a-transparent-supply-chain](https://hbr.org/2020/05/building-a-transparent-supply-chain) 
 * Open SC Wikipedia: [https://en.wikipedia.org/wiki/OpenSC_(company)](https://en.wikipedia.org/wiki/OpenSC_(company)) 
 
-**See Also:** [Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/)) \
+**See Also:** [Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/))
 
 
 ### 2. Impact Reporting
@@ -48,7 +48,7 @@ OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventu
  Similar to the process for supply chain management, blockchain technology can be well-suited to support impact reporting for nonprofits because of the permanent record of transactions distributed across participants in a network making it more transparent and tamper-proof. For example, in the wide array of programs around the world which deal with emissions reduction credits (ERCs) or carbon credits, blockchain is being utilized to support the processes of measurement, reporting, and verification (MRV). Blockchain technology supports MRV by helping ensure buyers that the carbon credits they purchase are real, removing intermediaries from the process which can reduce the opportunity for corruption, and helping organizations such as the World Bank certify its emissions reductions programs are working. 
 
 
- [According to the World Bank,](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) “While current methods to measure, report, and verify emission reductions can be costly and time-consuming, often relying on manual operations, digital technologies can streamline data collection, processing, and quality control in MRV processes, helping to reduce the cost and time to ERC issuance.”
+[According to the World Bank,](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) “While current methods to measure, report, and verify emission reductions can be costly and time-consuming, often relying on manual operations, digital technologies can streamline data collection, processing, and quality control in MRV processes, helping to reduce the cost and time to ERC issuance.”
 
 
  #### Example: [Evercity](https://evercity.io/)
