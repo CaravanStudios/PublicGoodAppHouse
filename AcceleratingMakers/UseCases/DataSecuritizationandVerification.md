@@ -22,14 +22,13 @@ One of the most promising applications of emerging blockchain technology is supp
 According to [an article](https://bcgdv.com/our-work/opensc/) from BCG Digital Ventures, “Present-day systems (e.g., carbon accounting and certification schemes) typically rely entirely on manual audits—spot checks that happen from time to time. Technology can change that and take us further. For many of the most important sustainability and ethical production claims, it is possible to continuously sense relevant data and build systems that verify those claims automatically, continuously, for the whole of production, and often close to real time.”
 
 
-**Example: OpenSC**
+#### Example: OpenSC
 
 
 OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventures. The OpenSC platform uses blockchain technology and real-time data to trace a product through its supply chain in order to make transparent and verifiable that it was produced in an ethically or sustainable way. The company started out tracking fish and beef and has since expanded traceability to items like palm oil and dairy. OpenSC typically focuses on improving transparency of commodities with known "environmental or human rights risks within their supply chains. Consumers can scan a QR code (typically on restaurant menus or on the product itself) to get access to the data about the product's history, which is stored on an open blockchain.
 
 
 **Key People:**
-
 
 [Markus Mutz](https://www.linkedin.com/in/markusmutz/?originalSubdomain=au) (CEO)
 
@@ -44,58 +43,52 @@ OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventu
   **See Also: **[Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/)) \
 
 
-2. **Impact Reporting**
+### 2. Impact Reporting
 
-    Similar to the process for supply chain management, blockchain technology can be well-suited to support impact reporting for nonprofits because of the permanent record of transactions distributed across participants in a network making it more transparent and tamper-proof. For example, in the wide array of programs around the world which deal with emissions reduction credits (ERCs) or carbon credits, blockchain is being utilized to support the processes of measurement, reporting, and verification (MRV). Blockchain technology supports MRV by helping ensure buyers that the carbon credits they purchase are real, removing intermediaries from the process which can reduce the opportunity for corruption, and helping organizations such as the World Bank certify its emissions reductions programs are working. 
-
-
-    [According to the World Bank,](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) “While current methods to measure, report, and verify emission reductions can be costly and time-consuming, often relying on manual operations, digital technologies can streamline data collection, processing, and quality control in MRV processes, helping to reduce the cost and time to ERC issuance.”
+ Similar to the process for supply chain management, blockchain technology can be well-suited to support impact reporting for nonprofits because of the permanent record of transactions distributed across participants in a network making it more transparent and tamper-proof. For example, in the wide array of programs around the world which deal with emissions reduction credits (ERCs) or carbon credits, blockchain is being utilized to support the processes of measurement, reporting, and verification (MRV). Blockchain technology supports MRV by helping ensure buyers that the carbon credits they purchase are real, removing intermediaries from the process which can reduce the opportunity for corruption, and helping organizations such as the World Bank certify its emissions reductions programs are working. 
 
 
-    **Example: [Evercity](https://evercity.io/)**
+ [According to the World Bank,](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) “While current methods to measure, report, and verify emission reductions can be costly and time-consuming, often relying on manual operations, digital technologies can streamline data collection, processing, and quality control in MRV processes, helping to reduce the cost and time to ERC issuance.”
 
 
-    Evercity combines blockchain with monitoring tools to increase data transparency avoiding greenwashing and enabling the issuance of fully traceable green digital assets: green and sustainability-linked debt instruments, carbon credits and forwards. Evercity also develops an open source sustainable finance protocol, which serves as a global common good infrastructure.
+ #### Example: [Evercity](https://evercity.io/)
 
 
-    **Key People:**
+Evercity combines blockchain with monitoring tools to increase data transparency avoiding greenwashing and enabling the issuance of fully traceable green digital assets: green and sustainability-linked debt instruments, carbon credits and forwards. Evercity also develops an open source sustainable finance protocol, which serves as a global common good infrastructure.
 
 
-    [Alexey Shadrin](https://www.linkedin.com/in/alexeyshadrin/?originalSubdomain=de) (Co-Founder)
+**Key People:**
+
+* [Alexey Shadrin](https://www.linkedin.com/in/alexeyshadrin/?originalSubdomain=de) (Co-Founder)
+* [Liza Romanova](https://www.linkedin.com/in/lizaromanova/?originalSubdomain=de) (Co-Founder)
 
 
-    [Liza Romanova](https://www.linkedin.com/in/lizaromanova/?originalSubdomain=de) (Co-Founder)
-
-
-    **Learn More**
+**Learn More**
 
 * What You Need to Know About the Measurement, Reporting, and Verification (MRV) of Carbon Credits (The World Bank, July 2022): [https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) 
 * Evercity Github: [https://github.com/EvercityEcosystem](https://github.com/EvercityEcosystem)
 * “Open source blockchain protocol for Sustainable bonds will fight impact washing” (Medium, 2020): [https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2](https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2)
-3. **Digital Identification Management**
 
-    A country’s identification system is the backbone for effective delivery of public and private services, yet [The World Bank estimates](https://www.worldbank.org/en/news/immersive-story/2019/08/14/inclusive-and-trusted-digital-id-can-unlock-opportunities-for-the-worlds-most-vulnerable) that 1 billion people worldwide do not have access to basic ID credentials. Opening a bank account, sending and receiving money, enrolling in school, applying for a job, voting in an election, or traveling across country borders all require some form of identification. Therefore, the lack of access to identification creates barriers for oftentimes already marginalized individuals.
+### 3. Digital Identification Management
 
-
-    Many governments are exploring the development of multipurpose digital identification systems. However, many people are concerned about large, personal datasets being stored on centralized servers owned and run by any one private or public entity for the risk of compromise or even attack. Therefore, some projects are utilizing blockchain technology where the data is stored using a decentralized blockchain ledger. Also known as “self-sovereign identity​ systems,” these systems aim to put the data in control of the user, therefore providing data protections. These systems are mostly still in early development stages.
+A country’s identification system is the backbone for effective delivery of public and private services, yet [The World Bank estimates](https://www.worldbank.org/en/news/immersive-story/2019/08/14/inclusive-and-trusted-digital-id-can-unlock-opportunities-for-the-worlds-most-vulnerable) that 1 billion people worldwide do not have access to basic ID credentials. Opening a bank account, sending and receiving money, enrolling in school, applying for a job, voting in an election, or traveling across country borders all require some form of identification. Therefore, the lack of access to identification creates barriers for oftentimes already marginalized individuals.
 
 
-    **Example: [MOSIP](https://www.mosip.io/)**
+Many governments are exploring the development of multipurpose digital identification systems. However, many people are concerned about large, personal datasets being stored on centralized servers owned and run by any one private or public entity for the risk of compromise or even attack. Therefore, some projects are utilizing blockchain technology where the data is stored using a decentralized blockchain ledger. Also known as “self-sovereign identity​ systems,” these systems aim to put the data in control of the user, therefore providing data protections. These systems are mostly still in early development stages.
 
 
-    MOSIP is a robust, scalable and inclusive foundational identity platform. The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way. Nations can use MOSIP freely to build their own identity systems. Being modular in its architecture, MOSIP provides flexibility to countries in how they implement and configure their systems, and helps avoid vendor lock-in.
+#### Example: [MOSIP](https://www.mosip.io/)
+
+MOSIP is a robust, scalable and inclusive foundational identity platform. The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way. Nations can use MOSIP freely to build their own identity systems. Being modular in its architecture, MOSIP provides flexibility to countries in how they implement and configure their systems, and helps avoid vendor lock-in.
+
+Anchored at the International Institute of Information Technology, Bangalore (IIIT-B), MOSIP harnesses the power of open source and embraces the best practices of scalability, security and privacy.
+
+**Key People:**
+
+[Ramesh Narayanan](https://www.gatesfoundation.org/video/ramesh-narayanan-mosip) (CTO)
 
 
-    Anchored at the International Institute of Information Technology, Bangalore (IIIT-B), MOSIP harnesses the power of open source and embraces the best practices of scalability, security and privacy.
-
-
-    **Key People:**
-
-
-    [Ramesh Narayanan](https://www.gatesfoundation.org/video/ramesh-narayanan-mosip) (CTO)
-
-
-    **Learn More:**
+**Learn More:**
 
 * “Harnessing digital technology for public good: An Indian CTO’s story” (Gates Foundation): [https://www.gatesfoundation.org/video/ramesh-narayanan-mosip](https://www.gatesfoundation.org/video/ramesh-narayanan-mosip) 
 * “MOSIP ready for next phase after building up digital ID ecosystem” (Biometric Update, July 2023): [https://www.biometricupdate.com/202307/mosip-ready-for-next-phase-after-building-up-digital-id-ecosystem#:~:text=Since%20then%2C%20digital%20identity%20systems,of%20the%20team%20behind%20it](https://www.biometricupdate.com/202307/mosip-ready-for-next-phase-after-building-up-digital-id-ecosystem#:~:text=Since%20then%2C%20digital%20identity%20systems,of%20the%20team%20behind%20it). 
