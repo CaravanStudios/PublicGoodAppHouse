@@ -36,9 +36,9 @@ OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventu
 
 * [“World first: revolutionary blockchain platform empowers all to track environmental and ethical impact of food and products”](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) (WWF, 2019)
 * [“Greener Supply Chains. Verified by AI and Blockchain”](https://www.bcg.com/x/mark-your-moment/blockchain-social-good) (BCG X)
-* [OpenSC](https://bcgdv.com/our-work/opensc/) (BCG Digital Ventures) 
+* [OpenSC](https://bcgdv.com/our-work/opensc/) (BCG Digital Ventures)
 * [“Building a Transparent Supply Chain”](https://hbr.org/2020/05/building-a-transparent-supply-chain) (Harvard Business Review, May-June 2020)
-* [Open SC Wikipedia](https://en.wikipedia.org/wiki/OpenSC_(company)
+* [Open SC Wikipedia](https://en.wikipedia.org/wiki/OpenSC_(company))
 
 **See Also:** [Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/))
 
@@ -67,7 +67,7 @@ Evercity combines blockchain with monitoring tools to increase data transparency
 
 * [What You Need to Know About the Measurement, Reporting, and Verification (MRV) of Carbon Credits](https://www.worldbank.org/en/news/feature/2022/07/27/what-you-need-to-know-about-the-measurement-reporting-and-verification-mrv-of-carbon-credits) (The World Bank, July 2022)
 * [Evercity Github](https://github.com/EvercityEcosystem)
-* “Open source blockchain protocol for Sustainable bonds will fight impact washing” (Medium, 2020): [https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2](https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2)
+* [“Open source blockchain protocol for Sustainable bonds will fight impact washing”](https://evercity.medium.com/open-source-blockchain-protocol-for-sustainability-bonds-will-fight-impact-washing-ea0a49ba17c2) (Medium, 2020)
 
 ### 3. Digital Identification Management
 
@@ -90,11 +90,11 @@ Anchored at the International Institute of Information Technology, Bangalore (II
 
 **Learn More:**
 
-* “Harnessing digital technology for public good: An Indian CTO’s story” (Gates Foundation): [https://www.gatesfoundation.org/video/ramesh-narayanan-mosip](https://www.gatesfoundation.org/video/ramesh-narayanan-mosip) 
-* “MOSIP ready for next phase after building up digital ID ecosystem” (Biometric Update, July 2023): [https://www.biometricupdate.com/202307/mosip-ready-for-next-phase-after-building-up-digital-id-ecosystem#:~:text=Since%20then%2C%20digital%20identity%20systems,of%20the%20team%20behind%20it](https://www.biometricupdate.com/202307/mosip-ready-for-next-phase-after-building-up-digital-id-ecosystem#:~:text=Since%20then%2C%20digital%20identity%20systems,of%20the%20team%20behind%20it). 
-* Inclusive and Trusted Digital ID Can Unlock Opportunities for the World’s Most Vulnerable (World Bank, April 2019): [https://www.worldbank.org/en/news/immersive-story/2019/08/14/inclusive-and-trusted-digital-id-can-unlock-opportunities-for-the-worlds-most-vulnerable](https://www.worldbank.org/en/news/immersive-story/2019/08/14/inclusive-and-trusted-digital-id-can-unlock-opportunities-for-the-worlds-most-vulnerable) 
-* “How Digital ID Is Changing Civic Space” (Digital Impact): [https://digitalimpact.io/the-upgrade-initiative/guess-who-how-digital-id-is-changing-civic-space/](https://digitalimpact.io/the-upgrade-initiative/guess-who-how-digital-id-is-changing-civic-space/) 
-* “Digital ID: A key to inclusive growth (McKinsey Global Institute, April 2019): [https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth#section-header-1](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth#section-header-1) 
+* [“Harnessing digital technology for public good: An Indian CTO’s story”](https://www.gatesfoundation.org/video/ramesh-narayanan-mosip) (Gates Foundation)
+* [“MOSIP ready for next phase after building up digital ID ecosystem”](https://www.biometricupdate.com/202307/mosip-ready-for-next-phase-after-building-up-digital-id-ecosystem#:~:text=Since%20then%2C%20digital%20identity%20systems,of%20the%20team%20behind%20it) (Biometric Update, July 2023)
+* [Inclusive and Trusted Digital ID Can Unlock Opportunities for the World’s Most Vulnerable](https://www.worldbank.org/en/news/immersive-story/2019/08/14/inclusive-and-trusted-digital-id-can-unlock-opportunities-for-the-worlds-most-vulnerable) (World Bank, April 2019)
+* [“How Digital ID Is Changing Civic Space”](https://digitalimpact.io/the-upgrade-initiative/guess-who-how-digital-id-is-changing-civic-space/) (Digital Impact)
+* [“Digital ID: A key to inclusive growth](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth#section-header-1) (McKinsey Global Institute, April 2019)
 
 **See Also:** [Proof of Humanity](https://proofofhumanity.id/)
 
