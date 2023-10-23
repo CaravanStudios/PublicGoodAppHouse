@@ -28,7 +28,7 @@ Mapeo is a free, easy-to-use, open source set of tools for collecting and mappin
 **Learn More:**
 
 * [“Waorani: Mapping Ancestral Lands in Ecuador”](https://www.earthdefenderstoolkit.com/community/mapping-waorani-ancestral-lands-in-ecuador/) (Earth Defenders Toolkit)
-* [Our Rivers Are Not Blue: Lessons, Reflections, and Challenges from Waorani Map Making in the Ecuadorian Amazon](https://societyofcartographers.files.wordpress.com/2018/07/51_ryan.pdf](https://societyofcartographers.files.wordpress.com/2018/07/51_ryan.pdf)
+* [Our Rivers Are Not Blue: Lessons, Reflections, and Challenges from Waorani Map Making in the Ecuadorian Amazon](https://societyofcartographers.files.wordpress.com/2018/07/51_ryan.pdf])
 * [“ECA-Amarakaeri: Monitoring the Amarakaeri Communal Reserve in Peru”](https://www.earthdefenderstoolkit.com/community/monitoring-the-amarakaeri-communal-reserve-in-peru/) (Other use cases and communities that use the tool)
 
 ### 2. Community Wi-Fi Networks
@@ -102,7 +102,7 @@ According to the [Distributed Press docs](https://docs.distributed.press/about/v
 
 **Learn More:**
 
-[Distributed Press](https://docs.distributed.press/) (Docs)
+* [Distributed Press](https://docs.distributed.press/) (Docs)
 
 **See Also:** [Micro.blog](https://micro.blog/), [Sutty](https://sutty.nl/en/index.html#contact)
 
@@ -111,17 +111,16 @@ According to the [Distributed Press docs](https://docs.distributed.press/about/v
 
 PeerTube is a free and open-source video platform that serves as a decentralized alternative to Youtube or Vimeo. PeerTube is part of the Fediverse, meaning users can set up their own streaming sites and run them independently or link (federate) them with other PeerTube instances through the ActivityPub standard and using P2P technology.
 
+Unlike on corporate-owned social media apps, content you post on the Fediverse can be passed through to other Fediverse platforms with no “walled gardens” keeping you locked in. For example, users of another Fediverse platform, Mastodon, can follow PeerTube users and comment on videos in a seamless, interconnected way. 
 
-    Unlike on corporate-owned social media apps, content you post on the Fediverse can be passed through to other Fediverse platforms with no “walled gardens” keeping you locked in. For example, users of another Fediverse platform, Mastodon, can follow PeerTube users and comment on videos in a seamless, interconnected way. 
 
-
-    **Key People:**
+**Key People:**
 
 * [Chocobozzz](https://github.com/Chocobozzz) (Founder)
 
-    **Learn More**
+**Learn More**
 
-* “The Breadth of the Fediverse” (Electronic Frontier Foundation, Feb 2023): [https://www.eff.org/deeplinks/2023/02/breadth-fediverse](https://www.eff.org/deeplinks/2023/02/breadth-fediverse)
-* “PeerTube: A ‘Censorship’ Resistant YouTube Alternative” (TorrentFreak, June 2018): [https://torrentfreak.com/peertube-a-censorship-resistent-youtube-alternative-180623/](https://torrentfreak.com/peertube-a-censorship-resistent-youtube-alternative-180623/)
+* [“The Breadth of the Fediverse”](https://www.eff.org/deeplinks/2023/02/breadth-fediverse) (Electronic Frontier Foundation, Feb 2023)
+* [“PeerTube: A ‘Censorship’ Resistant YouTube Alternative”](https://torrentfreak.com/peertube-a-censorship-resistent-youtube-alternative-180623/) (TorrentFreak, June 2018)
 
-    **See Also: [Mastodon](https://joinmastodon.org)**
+**See Also:** [Mastodon](https://joinmastodon.org)
