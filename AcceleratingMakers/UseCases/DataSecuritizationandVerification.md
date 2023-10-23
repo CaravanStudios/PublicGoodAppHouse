@@ -12,31 +12,28 @@ Decentralized technologies can provide many advantages to nonprofits that collec
 ![Data Securitization   Verification Use Case](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/040f77d2-2d1e-414e-8063-29e520758727)
 
 
-## Use Cases (Jobs To Be Done):
+## Use Cases Jobs To Be Done
+
+### 1. Supply Chain Tracking
+
+One of the most promising applications of emerging blockchain technology is supply chain management. Blockchain can help supply chain partners with some of their challenges by creating a complete, transparent, tamperproof history of the information flows, inventory flows, and financial flows in transactions.
 
 
-
-1. **Supply Chain Tracking**
-
-    One of the most promising applications of emerging blockchain technology is supply chain management. Blockchain can help supply chain partners with some of their challenges by creating a complete, transparent, tamperproof history of the information flows, inventory flows, and financial flows in transactions.
+According to [an article](https://bcgdv.com/our-work/opensc/) from BCG Digital Ventures, “Present-day systems (e.g., carbon accounting and certification schemes) typically rely entirely on manual audits—spot checks that happen from time to time. Technology can change that and take us further. For many of the most important sustainability and ethical production claims, it is possible to continuously sense relevant data and build systems that verify those claims automatically, continuously, for the whole of production, and often close to real time.”
 
 
-    According to [an article](https://bcgdv.com/our-work/opensc/) from BCG Digital Ventures, “Present-day systems (e.g., carbon accounting and certification schemes) typically rely entirely on manual audits—spot checks that happen from time to time. Technology can change that and take us further. For many of the most important sustainability and ethical production claims, it is possible to continuously sense relevant data and build systems that verify those claims automatically, continuously, for the whole of production, and often close to real time.”
+**Example: OpenSC**
 
 
-    **Example: OpenSC**
+OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventures. The OpenSC platform uses blockchain technology and real-time data to trace a product through its supply chain in order to make transparent and verifiable that it was produced in an ethically or sustainable way. The company started out tracking fish and beef and has since expanded traceability to items like palm oil and dairy. OpenSC typically focuses on improving transparency of commodities with known "environmental or human rights risks within their supply chains. Consumers can scan a QR code (typically on restaurant menus or on the product itself) to get access to the data about the product's history, which is stored on an open blockchain.
 
 
-    OpenSC is a joint venture by World Wildlife Fund Australia and BCG Digital Ventures. The OpenSC platform uses blockchain technology and real-time data to trace a product through its supply chain in order to make transparent and verifiable that it was produced in an ethically or sustainable way. The company started out tracking fish and beef and has since expanded traceability to items like palm oil and dairy. OpenSC typically focuses on improving transparency of commodities with known "environmental or human rights risks within their supply chains. Consumers can scan a QR code (typically on restaurant menus or on the product itself) to get access to the data about the product's history, which is stored on an open blockchain.
+**Key People:**
 
 
-    **Key People: **
+[Markus Mutz](https://www.linkedin.com/in/markusmutz/?originalSubdomain=au) (CEO)
 
-
-    [Markus Mutz](https://www.linkedin.com/in/markusmutz/?originalSubdomain=au) (CEO)
-
-
-    **Learn More:**
+**Learn More:**
 
 * “World first: revolutionary blockchain platform empowers all to track environmental and ethical impact of food and products” (WWF, 2019): [https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) 
 * “Greener Supply Chains. Verified by AI and Blockchain” (BCG X): [https://www.bcg.com/x/mark-your-moment/blockchain-social-good](https://www.bcg.com/x/mark-your-moment/blockchain-social-good) 
@@ -44,7 +41,7 @@ Decentralized technologies can provide many advantages to nonprofits that collec
 * “Building a Transparent Supply Chain” (Harvard Business Review, May-June 2020): [https://hbr.org/2020/05/building-a-transparent-supply-chain](https://hbr.org/2020/05/building-a-transparent-supply-chain) 
 * Open SC Wikipedia: [https://en.wikipedia.org/wiki/OpenSC_(company)](https://en.wikipedia.org/wiki/OpenSC_(company)) 
 
-    **See Also: **[Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/)) \
+  **See Also: **[Goodr](https://goodr.co/) (Founder [Jasmine Crowe](https://www.linkedin.com/in/jasminecrowe/)) \
 
 
 2. **Impact Reporting**
