@@ -12,11 +12,11 @@ Decentralized technologies can provide many advantages to nonprofits that collec
 ![Data Securitization   Verification Use Case](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/040f77d2-2d1e-414e-8063-29e520758727)
 
 
-**Use Cases (Jobs To Be Done):**
+## Use Cases (Jobs To Be Done):
 
 
 
-1. **Supply Chain Tracking**
+### 1. **Supply Chain Tracking**
 
     One of the most promising applications of emerging blockchain technology is supply chain management. Blockchain can help supply chain partners with some of their challenges by creating a complete, transparent, tamperproof history of the information flows, inventory flows, and financial flows in transactions.
 
