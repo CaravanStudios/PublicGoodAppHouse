@@ -1,7 +1,7 @@
 # DWeb Use Cases for Civil Society
 
 
-## Data Securitization & Verification
+## Data Storage & Verification
 
 Besides for financial transactions, decentralized technologies can be leveraged to securely store other types of data including identity information, health records, geolocation data, text and image-based art, historical records, and more. 
 
