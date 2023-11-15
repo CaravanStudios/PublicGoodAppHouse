@@ -16,7 +16,7 @@ _Last Updated November 2023_
 
 **6. Chatham House Rules for Confidentiality and Open Communication:** To encourage openness and the sharing of information, anyone who participates agrees to uphold Chatham House Rules. 
 
-_What does this mean? _
+__What does this mean?__
 
 Participants are free to use the information received during our sessions, but neither the identity nor the affiliation of the speakers, nor that of any other participant, may be revealed. This approach ensures that everyone can express their views and insights freely without concern of external judgment or unwanted disclosure. It's vital that all participants commit to these rules to maintain a safe, trusting environment for genuine dialogue and innovation.
 
