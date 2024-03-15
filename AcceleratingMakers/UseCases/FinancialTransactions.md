@@ -154,3 +154,5 @@ Open Collective is an online funding platform for open and transparent communiti
 
 * [Open Collective Docs](https://docs.opencollective.com/help/)
 * Video [Interview with Pia Mancini by TechSoup](https://www.youtube.com/watch?v=rVXtRBYsAtw)
+
+_These use cases are supported by an award from the [﻿Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)._
