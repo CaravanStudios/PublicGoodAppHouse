@@ -124,3 +124,5 @@ Unlike on corporate-owned social media apps, content you post on the Fediverse c
 * [“PeerTube: A ‘Censorship’ Resistant YouTube Alternative”](https://torrentfreak.com/peertube-a-censorship-resistent-youtube-alternative-180623/) (TorrentFreak, June 2018)
 
 **See Also:** [Mastodon](https://joinmastodon.org)
+
+_These use cases are supported by an award from the [﻿Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)._
