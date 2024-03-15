@@ -7,3 +7,11 @@ It is important to note that many of these use cases and the example tools are s
 If you are interested in trying out a DWeb tool for your nonprofit, we highly recommend doing some extra research and perhaps contacting the tool Makers to gain a deeper understanding of the landscape and state of the project to learn if/how the tool can support your unique needs. Feel free to reach out to our team (makerlabs@techsoup.org) and we can connect you with DWeb experts who might be able to answer your questions or point you in the right direction.
 
 Let us know what you think of these use case bundles! We are open to your feedback and suggestions throughout this program. 
+
+This series of decentralized web Explainers are designed to introduce civil society decision-makers to the core concepts of Web3 and DWeb.
+
+We encourage your suggestions and edits. You can submit a change with a pull request in GitHub, or email MakerLabs@TechSoup.org
+
+_These Use Cases are supported by an award from the [﻿Filecoin Foundation for the Decentralized Web](https://ffdweb.org/).
+
+_
