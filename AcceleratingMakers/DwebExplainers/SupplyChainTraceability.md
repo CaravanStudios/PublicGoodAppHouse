@@ -1,4 +1,5 @@
 # Understanding Supply Chain Traceability On The Blockchain
+>A Guide For Civil Society Leaders
 
 # What is Supply Chain Traceability?
 The primary objective of supply chain traceability is to enhance transparency, accountability, and sustainability within the supply chain. This is accomplished by implementing a process that involves recording and monitoring every step of a product's journey, from the raw materials or components used in manufacturing to the distribution and delivery of the final product.
