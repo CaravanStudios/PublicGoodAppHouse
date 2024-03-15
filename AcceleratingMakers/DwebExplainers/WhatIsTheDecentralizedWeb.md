@@ -67,5 +67,5 @@ _This explainer was supported by an award from the [Filecoin Foundation for the 
 `We welcome your edits and corrections to this Explainer via GitHub.`
 
 
-🔽 PDF Download: [web3-for-nonprofits-042423-b.pdf](https://github.com/CaravanStudios/acceleratingmakers/files/11559273/web3-for-nonprofits-042423-b.pdf)
+🔽 [PDF Download](https://acceleratingmakers.publicgoodapphouse.org/downloads)
 
