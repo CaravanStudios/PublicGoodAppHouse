@@ -31,7 +31,7 @@ Makers have the opportunity to:
 
 * **Connect directly with nonprofits** to bring them into the development process
 * **Accelerate development** of purpose-built tools with resources, support, and experienced mentors
-* **Learn storytelling skills **that will help get the solution funded, launched, and used
+* **Learn storytelling skills** that will help get the solution funded, launched, and used
 * **Launch tech solutions** within a community of early adopters & innovators
 
 # What’s in it for Nonprofits?
