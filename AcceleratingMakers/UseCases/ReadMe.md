@@ -12,6 +12,4 @@ This series of decentralized web Explainers are designed to introduce civil soci
 
 We encourage your suggestions and edits. You can submit a change with a pull request in GitHub, or email MakerLabs@TechSoup.org
 
-_These Use Cases are supported by an award from the [﻿Filecoin Foundation for the Decentralized Web](https://ffdweb.org/).
-
-_
+_These Use Cases are supported by an award from the [﻿Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)._
