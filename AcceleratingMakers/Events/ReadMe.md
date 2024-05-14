@@ -1,6 +1,6 @@
 As part of the Accelerating Makers program, we’re hosting regular events that bring you expert presenters on various topics to support purpose-built technology for civil society.
 
-If you’d like to be notified of upcoming events[make sure you’re on our email list](https://page.techsoup.org/pgah-makers-subscribe).
+If you’d like to be notified of upcoming events [make sure you’re on our email list](https://page.techsoup.org/pgah-makers-subscribe).
 
 ## Securing the Future: Activists and Decentralized Security Solutions
 
@@ -21,9 +21,9 @@ This event was designed to empower activists with the knowledge of decentralized
 ## Building the Commons: Community Archiving & Decentralized Storage
 
 **Demos:**
-* Demo 1: TRANSFER Trust: Decentralizing Contemporary Art. Kelani Nichole introduces her project, which introduces an emergent movement of artists transferring trust into decentralized infrastructure to create new forms of cultural value. 
-* Demo 2: Save, by OpenArchive: a Secure Archiving Verification Mobile App. Natalie Cadranel and Lauren Salim  demo Save, which helps you share, archive, verify, and encrypt your evidentiary media.
-* Demo 3: Truth, Justice, and the Decentralized Way: Investigative Journalism Meets Dweb Archiving. Adam Rose shows how a groundbreaking cryptographic archive published by Rolling Stone helped reopen a 30-year-old cold case using the Starling Framework: Capture, Store, Verify.
+* TRANSFER Trust: Decentralizing Contemporary Art. Kelani Nichole introduces her project, which introduces an emergent movement of artists transferring trust into decentralized infrastructure to create new forms of cultural value. 
+* Save, by OpenArchive: a Secure Archiving Verification Mobile App. Natalie Cadranel and Lauren Salim  demo Save, which helps you share, archive, verify, and encrypt your evidentiary media.
+* Truth, Justice, and the Decentralized Way: Investigative Journalism Meets Dweb Archiving. Adam Rose shows how a groundbreaking cryptographic archive published by Rolling Stone helped reopen a 30-year-old cold case using the Starling Framework: Capture, Store, Verify.
 
 **Hosted on:** April 25, 2024.
 
