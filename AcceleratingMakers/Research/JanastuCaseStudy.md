@@ -1,5 +1,6 @@
 # Janastu: Enhancing Agency, Privacy, and Resiliency in Data Storage for Community Media
-_A case study showcasing innovative applications and the real-world impact of creative technological interventions that harness DWeb technology for public benefit. _
+_A case study showcasing innovative applications and the real-world impact of creative technological interventions that harness DWeb technology for public benefit._
+
 ![Image 1](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/14fa51f8-6138-4778-8b8d-533c598db091)
 
 ![Image 2](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/a0e35dea-8407-45f8-96db-4b8169bbb85f)
@@ -13,6 +14,7 @@ This report dives into the work of the Janastu Collective. It was funded by an a
 ## Project Overview
 
 Since 2002, the members of Janastu have configured hardware devices, developed software applications, and grown the necessary underlying social networks and capacity to build and maintain all of their projects. This “socio-technical stack” has evolved over time, with each layer functioning to serve the goal of creating a community-owned media network.
+
 ![Image 3](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/68ce3627-db07-4f1f-a1d3-35838287c669)
 
 These are the parts of the stack:
@@ -28,15 +30,18 @@ Janastu’s most recent project in the stack is called The Common Storage Layer.
 By connecting to decentralized data storage networks, Janastu is able to capture the unique knowledge, stories, and insights from villagers in a way that promotes community control and agency, ensures privacy and security, and guarantees long-term accessibility and resiliency of the media.
 
 ![Image 4](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/eda7defa-7b29-4b49-9efe-2118f4b44ebc)
+
 _Caption: The Anthill Hacks whiteboard placed by the communal kitchen provides a space for asynchronous syncing through messages and doodles throughout the week._
 
 ![Image 5](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/977018e0-1209-4ed3-ba64-b9fa25c6ce0f)
 
 
 ![Image 6](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/49165db9-e768-4a6a-9b0c-036a71f7ade4)
+
 _Caption: Village and Anthill Hacks residents arrive to celebrate the raising of the bamboo mesh tower._
 
 ![Image 7](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/8b11f32e-184a-4438-9ab2-930df2608bc9)
+
 _Caption: Mesh network hacking at the Red Cottage. Anthill Hacks is one the few intergenerational events in technology out there, blending discipline and age groups alike to create a true sense of community for the month._
 
 
@@ -63,6 +68,7 @@ For example, content with the most personal and sensitive information that Manga
 Using these technologies, especially the Common Storage Layer, Aasha and Mangamma have greater agency to control where their information is stored and can make more informed and empowered decisions based on their specific needs and circumstances.
 
 ![Image 8](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/32f47ea0-3c91-4220-880e-fdd1d3733687)
+
 _Caption: Viju (right), an architect and artist specializing in natural building materials, guides Max (left) on the process of building earth walls in the on-site housing prototype at Iruway._
 
 
