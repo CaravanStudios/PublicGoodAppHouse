@@ -3,6 +3,9 @@ As part of the Accelerating Makers program, we’re hosting regular events that 
 If you’d like to be notified of upcoming events [make sure you’re on our email list](https://page.techsoup.org/pgah-makers-subscribe).
 
 ## Securing the Future: Activists and Decentralized Security Solutions
+**Hosted on:** May 9, 2024.
+
+This event was designed to empower activists with the knowledge of decentralized technologies that serve to bolster privacy and enhance security measures.
 
 **Demos:**
 * Snowflake: a free and open-source censorship circumvention tool from The Tor Project.
@@ -10,24 +13,19 @@ If you’d like to be notified of upcoming events [make sure you’re on our ema
 * Quiet: a "Slackier Signal" for teams doing sensitive work.
 * Self-help security education with Surveillance Self-Defense: the EFF's repository of how-to guides and explainers for protecting yourself and your friends online.
 
-**Hosted on:** May 9, 2024.
-
-This event was designed to empower activists with the knowledge of decentralized technologies that serve to bolster privacy and enhance security measures.
-
 [> Watch Recording](https://www.youtube.com/watch?v=w3QVkw7Beqc)
 
 [> Download Slides](https://www.slideshare.net/slideshow/securing-the-future-public-good-app-house/268373563)
 
 ## Building the Commons: Community Archiving & Decentralized Storage
+**Hosted on:** April 25, 2024.
+
+This event shines a spotlight on the intersection of decentralized storage solutions and community archive projects.
 
 **Demos:**
 * TRANSFER Trust: Decentralizing Contemporary Art. Kelani Nichole introduces her project, which introduces an emergent movement of artists transferring trust into decentralized infrastructure to create new forms of cultural value. 
 * Save, by OpenArchive: a Secure Archiving Verification Mobile App. Natalie Cadranel and Lauren Salim  demo Save, which helps you share, archive, verify, and encrypt your evidentiary media.
 * Truth, Justice, and the Decentralized Way: Investigative Journalism Meets Dweb Archiving. Adam Rose shows how a groundbreaking cryptographic archive published by Rolling Stone helped reopen a 30-year-old cold case using the Starling Framework: Capture, Store, Verify.
-
-**Hosted on:** April 25, 2024.
-
-This event shines a spotlight on the intersection of decentralized storage solutions and community archive projects.
 
 [> Watch Recording](https://www.youtube.com/watch?v=fbbqdH73GHY)
 
