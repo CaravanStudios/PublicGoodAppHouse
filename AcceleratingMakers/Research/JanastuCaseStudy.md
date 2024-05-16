@@ -17,6 +17,8 @@ Since 2002, the members of Janastu have configured hardware devices, developed s
 
 ![Image 3 Janastu_TechStack 1000 px](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/8187672b-4605-46f3-8ccd-34941b3cbca7)
 
+_[Download the image in full size](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/eeb067217989694185efea40ecfc6fc178e6b12e/AcceleratingMakers/Research/Image%203%20Janastu_TechStack.png)_
+
 
 These are the parts of the stack:
 
