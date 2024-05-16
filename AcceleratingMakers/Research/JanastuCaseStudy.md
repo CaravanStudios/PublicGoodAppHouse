@@ -15,7 +15,8 @@ This report dives into the work of the Janastu Collective. It was funded by an a
 
 Since 2002, the members of Janastu have configured hardware devices, developed software applications, and grown the necessary underlying social networks and capacity to build and maintain all of their projects. This “socio-technical stack” has evolved over time, with each layer functioning to serve the goal of creating a community-owned media network.
 
-![Image 3](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/68ce3627-db07-4f1f-a1d3-35838287c669)
+![Image 3 Janastu_TechStack 1000 px](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/8187672b-4605-46f3-8ccd-34941b3cbca7)
+
 
 These are the parts of the stack:
 
