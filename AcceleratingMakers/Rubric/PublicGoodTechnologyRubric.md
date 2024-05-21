@@ -1,7 +1,7 @@
 # Public Good Technology Rubric
 ## A self-assessment for makers of purpose-built tools for civil society
 
-_This is an initial draft of the Public Good Technology Rubric. We will be holding consultations and collecting feedback from stakeholders over the coming months. To offer feedback you can fork this document in GitHub, or email comments to [MakerLabs@TechSoup.org](mailto:MakerLabs@TechSoup.org)._
+_We will be holding consultations and collecting feedback from stakeholders over the coming months. To offer feedback, you can fork this document in GitHub, or email comments to [MakerLabs@TechSoup.org](mailto:MakerLabs@TechSoup.org)._
 
 
 # What is Public Good Technology?
@@ -12,7 +12,7 @@ Some people use terms like “humane” or “ethical” technology, meaning it 
 
 Public good technology can also sometimes be referred to as “public interest technology.” Some public good or interest technology might also be “civic technology,” which usually refers to publicly funded technology and/or technology that enhances democratic values or processes.
 
-“Digital public goods” are similar to public good technology, but more directly draw from economists' definition of public good as non-excludable (no one can prevent anyone else from using it–such as by charging a high price) and non-rivalrous (no persons consumption impedes anyone else’s consumption), meaning they are notoriously difficult to provide through market-based means and are therefore often provided by governments and/or civil society. Defined by the UN-endorsed DPGA, digital public goods are “open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs.”
+“Digital public goods” are similar to public good technology, but more directly draw from economists' definition of public good as non-excludable (no one can prevent anyone else from using it–such as by charging a high price) and non-rivalrous (no person’s consumption impedes anyone else’s consumption), meaning they are notoriously difficult to provide through market-based means and are therefore often provided by governments and/or civil society. Defined by the UN-endorsed DPGA, digital public goods are “open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs.”
 
 Our definition of public good technology expands upon these different approaches. As an organization that has been providing nonprofits with technological tools for decades, TechSoup views public good technology as technological tools built to support civil society. These tools can sometimes be referred to as “applications” (or “apps”), DApps (apps built on decentralized networks), “products” (commercial tools), or “projects” (open source tools). For the purposes of this rubric, we chose to use the term “tool,” which encompasses all of these different types.
 
@@ -22,8 +22,6 @@ We think a tool can be considered public good technology if its builders have ta
 # How Will the Rubric Be Used?
 
 The Rubric will be used by:
-
-
 
 * **Makers**: to have a self-assessment of the current health of their public good project, and to potentially publish the assessment for either the public or for the broader project team
 * **Funders**: to get a broad assessment of the state of public good projects, and to help determine which projects they should be funding
@@ -45,8 +43,6 @@ We’d love your feedback on this rubric. Feel free to reach out to us at [maker
 # Design
 
 These questions aim to encourage Makers to include a diverse array of stakeholders in the design and development of their technologies (inc. UX/UI, algorithms, data processes, etc.). This also includes intentionally designing governance mechanisms for continuous stakeholder participation in ownership and decision-making to ensure long-term sustainability and accountability over time.
-
-
 
 * What problem or job is the purpose-built tool being designed to solve/get done? 
 * What stakeholders are you including in your design process? These stakeholders should include groups from:
@@ -72,8 +68,6 @@ These questions aim to encourage Makers to include a diverse array of stakeholde
 
 These questions aim to help Makers ensure they are engaging in responsible data management practices and taking adequate measures to prevent risks with damaging consequences for users including: sensitive information misuse, identity theft, invasive targeted advertising, and decisions that lead to discrimination and bias. 
 
-
-
 * What are the organization’s overall objectives and what data is needed to meet these objectives? (keeping in mind that tools should only collect the data required for them to function)
 * How do you get permission to collect this data? Do you give users the ability to opt-out?
 * Are you transparent about your data processes with users and actively take steps to educate them about these processes? What terms and conditions are associated with the data?
@@ -90,8 +84,6 @@ These questions aim to help Makers ensure they are engaging in responsible data 
 
 These questions aim to help makers better plan for the delivery of their technological tools to civil society user communities. Oftentimes, tools are developed with high impact potential but without any structure for support over time making them virtually useless especially for non-technical adopters. These questions help makers think through the lifecycle of a partnership with a civil society organization–from onboarding, to training, to issue resolution and feedback, to long-term sustainability.
 
-
-
 * How is the tool brought to the community? 
 * How would you describe how the tool helps non-technical users solve a problem or get something done? What support is available for people getting onto the tool for the first time (onboarding) as well as training for particular roles?
 * How are user problems or issues with the tool handled?
@@ -103,8 +95,6 @@ These questions aim to help makers better plan for the delivery of their technol
 # Impact
 
 These questions are meant to support makers in articulating the intended impact of their technologies. Technology, like nonprofits, should have some kind of theory of change or explanation for how its intervention is expected to lead to a specific beneficial outcome. Describing this theory of change is important for both makers as well as nonprofits to better understand how a piece of software may be different from other available solutions. 
-
-
 
 * What is the theory of change for your tool and where can users read it? Does the user community have any opportunities to validate this theory of change / provide feedback on the expected outcomes?
 * How do the data processes above support this theory of change?
@@ -118,22 +108,32 @@ These questions are meant to support makers in articulating the intended impact 
 
 These questions are meant to drive community development between civil society decision-makers and the developers of technology solutions–bridging gaps between the ecosystems. Open lines of communication internally as well as communication outward to the surrounding ecosystem leads to higher quality partnership and better-functioning solutions.
 
-
-
 * How does outreach to civil society organizations work? Are there any partner organizations supporting outreach?
 * Is there content development happening about the technology? Are there any partner organizations supporting content development?
 * Do users of the tool have an opportunity to engage with other uses?
 * Do users of the tool have an opportunity to engage directly with people who are working on the technology?
 
 
-# References
+# Further Resources
 
-Other rubric models for consideration: 
-
-
-
-* Superbloom’s User Experience Toolbox for Risk Mitigation and Accessibility: 
-* [How To Think About What's Going On in Community…](https://smithery.com/2022/06/15/how-to-use-the-community-power-compass/)(Well-designed framework that serves as a tool for community practitioners. Could be reference for Public Good Tech practitioners)
+* TechSoup's [Maker research](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/a4a1aed083dff4def88ebb3b390eb8ef0c99319c/AcceleratingMakers/Research), which includes:
+   *    TechSoup's review of civil technologists
+   *    Preliminary findings and themes from maker interviews
+   *    A compilation of the documents and annotations that have informed insights about the Decentralized Web
+   *    The challenges and barriers to DWeb use and access in the nonprofit sector, plus insights into the regulation and legal compliance of DWeb technologies, education, digital interfaces, and user experience.
+* TechSoup's Chief Impact Officer Marnie Webb's blog posts:
+   * [The Makers Behind Apps for Good](https://techsoup.medium.com/the-makers-behind-apps-for-good-94e77261feb2)
+   * [Accelerating the Makers of Civil Society](https://techsoup.medium.com/accelerating-the-makers-of-civil-society-705982dd4d72)
+* Video: [Chat for Impact Summit '22 Keynote - Marnie Webb TechSoup](https://www.youtube.com/watch?v=Bq3hXeLqVwA)
+* [Digital Public Goods Alliance](https://digitalpublicgoods.net/): a multi-stakeholder initiative that accelerates the attainment of the UN’s sustainable development goals by facilitating the discovery, development, use of, and investment in digital public goods. 
+    * [Registry](https://digitalpublicgoods.net/registry/): Digital public goods that have been successfully reviewed and found to meet the DPG Standard receive a DPG icon.
+* [New_Public Civic Signals](https://newpublic.org/interactive)
+    * As well as New_Public’s [Social Spaces & Products Directory](https://airtable.com/appgA6QrWMpXmDp9X/shr7JFPTJt1C9j0qA/tblwlRh)
+* The work of Carol Sanford: [https://carolsanford.com/books/](https://carolsanford.com/books/) 
+* [Mobile App Rating Scale: A New Tool for Assessing the Quality of Health Mobile Apps](https://mhealth.jmir.org/2015/1/e27/) 
+* [Design Justice Network Principles](https://designjustice.org/)
+* Superbloom’s User Experience Toolbox for Risk Mitigation and Accessibility: [USAM v3](https://docs.google.com/document/d/1pkbQLUZ95gcxEvZtxdAa384DrEkgbI4Oyd6wxpLq9O0/edit#heading=h.f7ghcbd1rvda)
+* [How To Think About What's Going On in Community…](https://smithery.com/2022/06/15/how-to-use-the-community-power-compass/): a well-designed framework that serves as a tool for community practitioners. For public good tech practitioners.
 * [Co-designing Digital Interventions and Technology Projects with Civil Society | weforum.org](https://www3.weforum.org/docs/WEF_Co_designing_Tech_with_Civil_Society_2021.pdf) 
 * [The Revenue-Evil Curve: a different way to think about prioritizing public goods funding](https://vitalik.ca/general/2022/10/28/revenue_evil.html)
 * [5 Key Steps to Creating a Data Management Strategy | Tableau](https://www.tableau.com/learn/articles/data-management-strategy)
