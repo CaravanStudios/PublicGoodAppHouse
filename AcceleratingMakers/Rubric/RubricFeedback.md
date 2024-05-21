@@ -38,18 +38,19 @@ The section includes both verbatim and summarized feedback from the consultation
 **Feedback from John Willshire, Strategic Designer & Creator of the [Community Power Compass](https://smithery.com/2022/06/15/how-to-use-the-community-power-compass/)**
 
 I emailed John for advice on how we might think about turning the rubric into some kind of interactive worksheet for makers to fill out (or other maps / exercises like that).
-    * We talked about the pros and cons of self-reported vs. an external grading process (like TechSoup delivering scores). 
-        * People don’t really get as much out of a self-assessment tool / there is no accountability mechanism
-        * One avenue to take is for TechSoup to come up with its own evaluation system/ grading scale (numerical, pass/fail, etc.)
-    * Alternatively, rather than one objective “grading system,” people and projects utilizing this rubric might want to know where, on some axes, they fall relative to other projects. It might make more sense to create a visual representation of where projects fall relative to each other based on the metrics established by this rubric.
-        * One “scale” we might use is the maturity of a project - mapping projects on a timeline based on design phase and /or size of the project/its datasets. This way, makers can see tools that are further along than them on the journey and see decisions they made at each step of the way. 
-        * Risk of public map:
-            * Makers trying to manipulate to ensure they’re well-positioned on the relative map (or funders expecting something different from reality)
-        * Visual inspiration:
+
+* We talked about the pros and cons of self-reported vs. an external grading process (like TechSoup delivering scores). 
+   * People don’t really get as much out of a self-assessment tool / there is no accountability mechanism
+   * One avenue to take is for TechSoup to come up with its own evaluation system/ grading scale (numerical, pass/fail, etc.)
+* Alternatively, rather than one objective “grading system,” people and projects utilizing this rubric might want to know where, on some axes, they fall relative to other projects. It might make more sense to create a visual representation of where projects fall relative to each other based on the metrics established by this rubric.
+   * One “scale” we might use is the maturity of a project - mapping projects on a timeline based on design phase and /or size of the project/its datasets. This way, makers can see tools that are further along than them on the journey and see decisions they made at each step of the way. 
+   * Risk of public map:
+   * Makers trying to manipulate to ensure they’re well-positioned on the relative map (or funders expecting something different from reality)
+* Visual inspiration:
         
 ![Visual Inspiration from Val](https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/caa5e89f-7a83-4ecb-99d4-a575d3199f43)
     
-    * Other visual frameworks can be found at [Visual Frameworks: A language of patterns](https://visualframeworks.com/about/)
+Other visual frameworks can be found at [Visual Frameworks: A language of patterns](https://visualframeworks.com/about/)
     
 **Feedback from Laure X Cast, Prosocial Technology Researcher and Advocate**
 
