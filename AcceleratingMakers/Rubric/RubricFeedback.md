@@ -54,10 +54,10 @@ Other visual frameworks can be found at [Visual Frameworks: A language of patter
     
 **Feedback from Laure X Cast, Prosocial Technology Researcher and Advocate**
 
-    * She is working on planning an event for funders of prosocial tech for May 2024 in the Bay Area.
-    * Saw a synthesis of Carol Sanford's work and Design Justice principles.
-    * Ideal governance for public good technology = Nonprofit + decentralized (and/or federated?) + revenue-based + community & stakeholder governance “is kind of what feels right”
-    * Laure has been speaking with funders of responsible technology and says “They want a rubric.” In fact, they have already started drafting up their own list of questions (See below) that they - and other potential funders - can use to evaluate technologies and if/how they have been designed for the public good.
+* She is working on planning an event for funders of prosocial tech for May 2024 in the Bay Area.
+* Saw a synthesis of Carol Sanford's work and Design Justice principles.
+* Ideal governance for public good technology = Nonprofit + decentralized (and/or federated?) + revenue-based + community & stakeholder governance “is kind of what feels right”
+* Laure has been speaking with funders of responsible technology and says “They want a rubric.” In fact, they have already started drafting up their own list of questions (See below) that they - and other potential funders - can use to evaluate technologies and if/how they have been designed for the public good.
 
 **Questions Funders of Responsible Technology Have for Makers:**
 _Questions proposed by Laure X Cast_
