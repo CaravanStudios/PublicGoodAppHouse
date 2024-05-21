@@ -53,13 +53,13 @@ I emailed John for advice on how we might think about turning the rubric into so
     
 **Feedback from Laure X Cast, Prosocial Technology Researcher and Advocate**
 
-(Prosocial Design, Integrity Institute, All Tech is Human, Council for Tech and Social Cohesion, etc.) 
     * She is working on planning an event for funders of prosocial tech for May 2024 in the Bay Area.
     * Saw a synthesis of Carol Sanford's work and Design Justice principles.
     * Ideal governance for public good technology = Nonprofit + decentralized (and/or federated?) + revenue-based + community & stakeholder governance “is kind of what feels right”
     * Laure has been speaking with funders of responsible technology and says “They want a rubric.” In fact, they have already started drafting up their own list of questions (See below) that they - and other potential funders - can use to evaluate technologies and if/how they have been designed for the public good.
 
-**From Laure: Questions Funders of Responsible Technology Have for Makers:**
+**Questions Funders of Responsible Technology Have for Makers:**
+_Questions proposed by Laure X Cast_
 
 1. Are the incentives of users and product developers aligned?
 2. Does the technology purport to be about people connection but actually is about media consumption?
@@ -95,14 +95,13 @@ Our researcher, Val Elefante, proposes the following ideas as next steps for the
 <img width="908" alt="2024-05-21_10-01-32" src="https://github.com/CaravanStudios/PublicGoodAppHouse/assets/3868907/bb08d283-96cd-445c-b0f8-489400d69827">
 
 
-* **Idea #3: Host conversations and participate in events**
+* **Idea #2: Host conversations and participate in events**
     * If TechSoup does want to become a thought-leader in the responsible technology space, I would suggest getting involved in partnership with other organizations who are hosting events, facilitating conversations, and building tools (like the rubric!) to support the ecosystem - organizations include Metagov, Funding the Commons, New_Public, All Tech is Human, etc,. as well as various universities (Berkman Klein at Harvard, etc.)
     * Event ideas:
         * Bring funders together to discuss how they evaluate impactful technology.
         * Bring makers (grantees) together to discuss how they go about answering these questions and their challenges to making prosocial decisions.
     * Val is part of organizations who are already organizing these types of events, and would be able to easily help TechSoup plug in.
-        * Most recently, Val (I) co-hosted the Web3 Grants Summit at ETH Denver where we facilitated events for both grantors and grantees. See the takeaways from those events: 
-        *  
+        * Most recently, Val (I) co-hosted the Web3 Grants Summit at ETH Denver where we facilitated events for both grantors and grantees. See the takeaways from the [Web3 Grants Summit](https://docs.google.com/document/d/1JFjHL6VM5XMNEkmjUSfn4x2BitF1tnXfD3bvb3uBFGo/edit?usp=sharing).
 
 
 # APPENDIX
