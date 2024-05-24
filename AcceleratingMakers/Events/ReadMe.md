@@ -2,6 +2,22 @@ As part of the Accelerating Makers program, we’re hosting regular events that 
 
 If you’d like to be notified of upcoming events [make sure you’re on our email list](https://page.techsoup.org/pgah-makers-subscribe).
 
+## Advancing Impact Measurement: Exploring New Approaches for Evaluating Success
+
+**Demos:**
+* Open Source Observer: This free analytics suite offers a promising model for measuring the impact of contributions to the health of an ecosystem, with potential applications for nonprofit projects.
+* Hypercerts: This protocol aims to streamline the process of funding and rewarding positive impact through a shared, decentralized database for impact claims and funding mechanisms.
+* Metrics Garden Labs: By developing tools to measure the "soft" contributions of a community beyond code, Metrics Garden Labs is exploring new dimensions of impact assessment.
+
+
+**Hosted on:** May 23, 2024.
+
+Learn about innovative new open-source solutions for impact measurement and funding.
+
+[> Watch Recording](https://youtu.be/4kLsZK3wK2Q)
+
+[> Download Slides](https://www.slideshare.net/slideshow/advancing-impact-measurement-public-good-app-house/269264947)
+
 ## Securing the Future: Activists and Decentralized Security Solutions
 **Hosted on:** May 9, 2024.
 
