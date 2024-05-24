@@ -1,6 +1,6 @@
 
 
-This series of guest were designed to help onboard makers and civil society decision-makers to the decentralized web. 
+This series of guides were designed to help onboard makers and civil society decision-makers to the decentralized web. 
 The guides are illustrated step-by-step how-to documents that introduce common DWeb concepts and tools.
 
 We encourage your suggestions and edits. You can submit a change with a pull request in GitHub, or email MakerLabs@TechSoup.org
