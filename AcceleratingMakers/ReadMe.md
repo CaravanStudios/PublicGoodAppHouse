@@ -15,11 +15,10 @@ Regardless of what makers are building, if it’s intended to support public goo
 ## How You Can Get Involved
 
 1. Sign up for one of our [upcoming events](https://events.techsoup.org/public-good-app-house/)
-2. Join our [Maker community](https://survey.alchemer.com/s3/7572582/Accelerating-Makers-Community-Registration)
-3. Subscribe to our [Maker newsletter](https://page.techsoup.org/pgah-makers-subscribe)
-4. Offer feedback on our draft [Public Good Technology Rubric](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/AcceleratingMakers/PublicGoodTechnologyRubric.md)
-5. [Download our DWeb explainers, guides and use cases](https://acceleratingmakers.publicgoodapphouse.org/resources)
-6. Email us with your projects or ideas around what you want to learn about at upcoming events. You can email us directly at makerlabs@techsoup.org
+2. Subscribe to our [Maker newsletter](https://page.techsoup.org/pgah-makers-subscribe)
+3. Offer feedback on our draft [Public Good Technology Rubric](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/AcceleratingMakers/PublicGoodTechnologyRubric.md)
+4. [Download our DWeb explainers, guides and use cases](https://acceleratingmakers.publicgoodapphouse.org/resources)
+5. Email us with your projects or ideas around what you want to learn about at upcoming events. You can email us directly at makerlabs@techsoup.org
 
 # The Mission
 
@@ -60,6 +59,6 @@ Digital resources will be hosted within Accelerating Makers and available any ti
 The power of knowledge from the community is greater than organizers could ever provide, and because of this, we facilitate introductions between community members, give them a forum to connect live during events, and have open discussions in our dedicated Slack group. Peer support, user feedback, and informal mentorship will help members navigate mental models, decision making
 
 
-_Accelerating Makers is supported by an award from the ﻿[Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)﻿._
+_Accelerating Makers was supported by an award from the ﻿[Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)﻿._
 
 _Public Good App House is a project of [Caravan Studios](https://www.caravanstudios.org/), a division of [TechSoup](http://www.techsoup.org)._
