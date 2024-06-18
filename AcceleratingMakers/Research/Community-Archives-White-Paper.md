@@ -2,6 +2,7 @@
 
 _May 2024_
 
+
 ## Executive Summary
 
 This white paper explores the potential of decentralized web (DWeb) solutions for community archives based on insights gathered from interviews with 11 community archivists. While DWeb technology offers compelling benefits such as increased privacy, security, and community ownership, there are also significant challenges and concerns that need to be addressed before widespread adoption. This document aims to provide civil society executives with a clear understanding of the opportunities and obstacles in implementing DWeb solutions for community archives.
@@ -109,6 +110,8 @@ Many community archivists are hopeful that solutions will emerge for them. Movin
 
 If you’re interested in learning more about decentralized web solutions for community archives and other civil society organizations, explore the other resources available:
 
+
+
 * [Explainer: What Is the Decentralized Web](https://acceleratingmakers.publicgoodapphouse.org/downloads)
 * [Explainer: Decentralized Storage](https://acceleratingmakers.publicgoodapphouse.org/downloads)
 * [Maker Guide: Decentralized Storage](https://acceleratingmakers.publicgoodapphouse.org/downloads/_learning-resources/decentralized-storage)
@@ -117,12 +120,14 @@ If you’re interested in learning more about decentralized web solutions for co
 
 ## About the Research and Methodology
 
-This white paper is based on research that TechSoup conducted between January and March of 2024, entitled _Maker Findings Arc III: Decentralized Web and Community-Based Archives_. The team interviewed 11 individuals compiling a variety of different community archives based in different parts of the U.S.[^12] and around the world, and their comments were anonymously included in this project to ensure their privacy.
+This white paper is based on research that TechSoup conducted between January and March of 2024, titled _Maker Findings Arc III: Decentralized Web and Community-Based Archives_. The team interviewed 11 individuals compiling a variety of different community archives based in different parts of the U.S. and around the world, and their comments were anonymously included in this project to ensure their privacy.
 
 The previous report, _[Maker Findings Arc II: Decentralized Web – Challenges to Use and Access](https://acceleratingmakers.publicgoodapphouse.org/downloads/_learning-resources/research-maker-findings-arc-ii-decentralized-web-challenges-to-use-and-access)_, also influenced the insights here, which focused on the barriers to adoption experienced by nonprofits as they engage with DWeb technologies.
 
 
 ## Credits
+
+
 
 * Author: Joel Harrison, Independent Writer and Communications Consultant
 * Researchers: Darin Harrison, Project Portfolio Lead and Qualitative Researcher; Ana Carolina De Assis Nunes, Qualitative Researcher
@@ -139,16 +144,16 @@ _Public Good App House is a project of Caravan Studios, a division of TechSoup._
 ## Notes
 
 [^1]:
-     Gilliland, A., & Flinn, A. (2013, October). Community archives: What are we really talking about. In Retrieved from CIRN Prato Community Informatics Conference.
+     Gilliland, A., and A. Flinn. "Community archives: What are we really talking about?" Retrieved from CIRN Prato Community Informatics Conference (October 2013).
 
 [^2]:
-     Caswell, M., Migoni, A. A., Geraci, N., & Cifor, M. (2017). ‘To be able to imagine otherwise’: community archives and the importance of representation. Archives and Records, 38(1), 5-26.
+     Caswell, M., A. A. Migoni, N. Geraci, and M. Cifor, M. "To Be Able to Imagine Otherwise: Community Archives and the Importance of Representation." _Archives and Records_, 38(1) (2017) 5–26.
 
 [^3]:
-     Walker, D., Ishikawa Sutton, M., Vira, U., & Lau, B. (2022). Commoning for Fun and Profit: Experimental Publishing on the Decentralized Web. Proceedings of the ACM on Human-Computer Interaction, 6 (CSCW2), 1-21.
+     Walker, D., M. Ishikawa Sutton, U. Vira, and B. Lau. "Commoning for Fun and Profit: Experimental Publishing on the Decentralized Web." _Proceedings of the ACM on Human-Computer Interaction_, 6 (CSCW2) (2022) 1–21.
 
 [^4]:
-     Tyagi, A. K. (2023). Decentralized everything: Practical use of blockchain technology in future applications. In Distributed Computing to Blockchain (pp. 19-38). Academic Press.
+     Tyagi, A. K. "Decentralized Everything: Practical Use of Blockchain Technology in Future Applications." In _Distributed Computing to Blockchain_. Academic Press (2023), 19–38.
 
 [^5]:
      This section of the white paper draws on research findings stemming from our interviews with community archives. 
@@ -157,19 +162,16 @@ _Public Good App House is a project of Caravan Studios, a division of TechSoup._
      Skarzauskiene, A., Maciuliene, M., & Bar, D. (2021). Developing blockchain supported collective intelligence in decentralized autonomous organizations. In Proceedings of the Future Technologies Conference (FTC) 2020, Volume 3 (pp. 1018-1031). Springer International Publishing.
 
 [^7]:
-     Hummel, P., Braun, M., & Dabrock, P. (2021). Own data? Ethical reflections on data ownership. Philosophy & Technology, 34(3), 545-572. 
+     Hummel, P., M. Braun, and P. Dabrock. "Own data? Ethical Reflections on Data Ownership." _Philosophy & Technology_, 34(3), 545–572 (2021).
 
 [^8]:
-     You can read more about this topic on the _Digital Currency Initiative Report_ published by scholars at MIT [[access report here](https://dci.mit.edu/decentralizedweb).]
+     You can read more about this topic on the _Digital Currency Initiative Report_ published by scholars at MIT [[access report here](https://dci.mit.edu/decentralizedweb)].
 
 [^9]:
-     Nunes; Harrison (2024). Makers Project — Research Findings | [Arc II: Decentralized Web – Challenges to Use and Access](https://acceleratingmakers.publicgoodapphouse.org/downloads).
+     Nunes, A., and D. Harrison. [Maker Findings Arc II: Decentralized Web – Challenges to Use and Access](https://acceleratingmakers.publicgoodapphouse.org/downloads) (2024).
 
 [^10]:
-     Costanza-Chock, S. (2020). Design justice: Community-led practices to build the worlds we need. The MIT Press. 
+     Costanza-Chock, S. _Design Justice: Community-Led Practices to Build the Worlds We Need_. The MIT Press (2020).
 
 [^11]:
-     According to this interviewee, “takedown policy” is a form of language borrowed from archival studies and communities. As this research participant noted, DWeb and community-based archives form a new intersection, and a new language will likely emerge to bridge these two areas [See: Urban, J. (2016). Takedown and Today’s Academic Digital Library.]. 
-
-[^12]:
-     Pahwa, M., Cavanagh, A., & Vanstone, M. (2023). Key Informants in Applied Qualitative Health Research. Qualitative Health Research, 33(14), 1251-1261.
+     According to this interviewee, “takedown policy” is a form of language borrowed from archival studies and communities. As this research participant noted, DWeb and community-based archives form a new intersection, and a new language will likely emerge to bridge these two areas [See: Urban, J. (2016). Takedown and Today’s Academic Digital Library]. 
