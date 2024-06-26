@@ -1,5 +1,28 @@
 # Accelerating Makers
 
+## Key Links
+
+* [Public Good App House website](https://www.publicgoodapphouse.org/)
+* [Accelerating Makers project website](https://acceleratingmakers.publicgoodapphouse.org/)
+
+The Accelerating Makers project ran from October 2022 to May 2024, and was supported by a grant from the Filecoin Foundation for the Decentralized Web.
+
+Accelerating Makers helped Makers and Civil Society Decision-Makers understand and adopt decentralized technologies. Some of the key assets created during the project include:
+
+### Code Samples and Technical Briefs
+* [Awesome List of DWeb use cases](https://github.com/CaravanStudios/awesome)
+* [A web3 sandbox project showcasing basic IPFS upload and listing functionality using Web.storage/Filecoin and Vue.js](https://github.com/CaravanStudios/web3-storage-vue)
+* [Technical Briefings](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/TechnicalBriefings) for Makers on DWeb tools Endaoment, Quiet, and Filecoin
+
+# Educational Resources
+
+* [Explainers](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/DwebExplainers) introducing core DWeb concepts like DAOs and decentralized storage
+* [Guides](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Guides) with illustrated step-by-step instructions to help Makers and Civil Society Decision-Makers's use DWeb tools.
+* [Event replays](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Events) of our webinars and office hours
+* [Maker Studio Sessions](https://acceleratingmakers.publicgoodapphouse.org/maker-studio-sessions): Mentor sessions to help Makers uncover the potential of DWeb technology for social impact.
+* [Public Good Technology Rubric](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Rubric): A self-assessment for makers of purpose-built tools for civil society
+*  [Use Cases](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/UseCases) of decentralized technologies for civil society organizations
+
 > **Goal:** “Helping technology builders and nonprofits co-create tools that are purpose-built for public good.”
 
 We believe that nonprofits and civil society organizations struggle because they don’t have easy access to trusted professionals who can support them in the discovery and implementation of  new technology solutions, but they also don’t have access to purpose-built tools that map to their values and goals. For too long, civil society professionals have been forced to hack together traditional for-profit enterprise solutions to fit their needs.
