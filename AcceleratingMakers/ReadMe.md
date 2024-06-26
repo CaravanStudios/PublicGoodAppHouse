@@ -17,10 +17,10 @@ Accelerating Makers helped Makers and Civil Society Decision-Makers understand a
 ### Educational Resources
 
 * [Explainers](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/DwebExplainers) introducing core DWeb concepts like DAOs and decentralized storage
-* [Guides](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Guides) with illustrated step-by-step instructions to help Makers and Civil Society Decision-Makers's use DWeb tools.
-* [Research](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/58da59e69e9b46f1b52e68f6262f9d60b6dd3651/AcceleratingMakers/Research) on barriers to DWeb adoption by civil society, an annotated bibliography, an exploration of community archive project needs, and more.
+* [Guides](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Guides) with illustrated step-by-step instructions to help Makers and Civil Society Decision-Makers's use DWeb tools
+* [Research](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/58da59e69e9b46f1b52e68f6262f9d60b6dd3651/AcceleratingMakers/Research) on barriers to DWeb adoption by civil society, an annotated bibliography, an exploration of community archive project needs, and more
 * [Event replays](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Events) of our webinars and office hours
-* [Maker Studio Sessions](https://acceleratingmakers.publicgoodapphouse.org/maker-studio-sessions): Mentor sessions to help Makers uncover the potential of DWeb technology for social impact.
+* [Maker Studio Sessions](https://acceleratingmakers.publicgoodapphouse.org/maker-studio-sessions): Mentor sessions to help Makers uncover the potential of DWeb technology for social impact
 * [Public Good Technology Rubric](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Rubric): A self-assessment for makers of purpose-built tools for civil society
 *  [Use Cases](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/UseCases) of decentralized technologies for civil society organizations
 *  Blog posts
