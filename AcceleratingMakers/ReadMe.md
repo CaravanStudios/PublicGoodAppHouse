@@ -14,7 +14,7 @@ Accelerating Makers helped Makers and Civil Society Decision-Makers understand a
 * [A web3 sandbox project showcasing basic IPFS upload and listing functionality using Web.storage/Filecoin and Vue.js](https://github.com/CaravanStudios/web3-storage-vue)
 * [Technical Briefings](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/TechnicalBriefings) for Makers on DWeb tools Endaoment, Quiet, and Filecoin
 
-# Educational Resources
+### Educational Resources
 
 * [Explainers](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/DwebExplainers) introducing core DWeb concepts like DAOs and decentralized storage
 * [Guides](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/cbc296019b39c6e4bdd0e2a072d6090fcbdb5681/AcceleratingMakers/Guides) with illustrated step-by-step instructions to help Makers and Civil Society Decision-Makers's use DWeb tools.
