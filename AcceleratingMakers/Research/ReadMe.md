@@ -5,6 +5,7 @@ The research reports include:
 * Preliminary findings and themes from maker interviews
 * A compilation of the documents and annotations that have informed insights about the Decentralized Web
 * The challenges and barriers to DWeb use and access in the nonprofit sector, plus  insights into the regulation and legal compliance of DWeb technologies, education, digital interfaces, and user experience.
+* DWeb for Community Archives White Paper
 
 We encourage your suggestions and edits. Email your feedback to MakerLabs@TechSoup.org
 
