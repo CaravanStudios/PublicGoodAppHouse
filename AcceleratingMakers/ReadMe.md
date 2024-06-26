@@ -30,7 +30,8 @@ Accelerating Makers helped Makers and Civil Society Decision-Makers understand a
   * [Chat for Impact Summit 2022 Keynote](https://www.youtube.com/watch?v=Bq3hXeLqVwA), with Marnie Webb | Turn.io
   * [Scaling Nonprofit Impact With Tech](https://www.youtube.com/watch?v=pHla4Oy53Cs), with Marnie Webb | DWeb Decoded Podcast
 
-> **Goal:** “Helping technology builders and nonprofits co-create tools that are purpose-built for public good.”
+===========
+> **Accelerating Makers Goal:** “Helping technology builders and nonprofits co-create tools that are purpose-built for public good.”
 
 We believe that nonprofits and civil society organizations struggle because they don’t have easy access to trusted professionals who can support them in the discovery and implementation of  new technology solutions, but they also don’t have access to purpose-built tools that map to their values and goals. For too long, civil society professionals have been forced to hack together traditional for-profit enterprise solutions to fit their needs.
 
