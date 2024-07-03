@@ -114,8 +114,7 @@ For organizations that value horizontal as opposed to vertical leadership or tho
 
 
 ## Resources
-
-
+You can also download this document as a .pdf: [Is DWeb for Me 2024-07-03.pdf](https://github.com/user-attachments/files/16087200/Is.DWeb.for.Me.2024-07-03.pdf)
 
 * [Accelerating Makers Explainers](https://acceleratingmakers.publicgoodapphouse.org/resources)
 * [Public Good Tech Rubric](https://www.google.com/url?q=https://github.com/CaravanStudios/PublicGoodAppHouse/blob/7e421b9627df4eb6d7161e0fa1161df3331299c1/AcceleratingMakers/Rubric/ReadMe.md&sa=D&source=docs&ust=1719941064468363&usg=AOvVaw3L9p7-EjkPDqyehiT-WDPY)
@@ -129,4 +128,4 @@ For organizations that value horizontal as opposed to vertical leadership or tho
 _This document is supported by an award from the [Filecoin Foundation for the Decentralized Web](https://ffdweb.org/). \
  \
 Public Good App House is a project of Caravan Studios, a division of TechSoup._
-[Is DWeb for Me 2024-07-03.pdf](https://github.com/user-attachments/files/16087200/Is.DWeb.for.Me.2024-07-03.pdf)
+
