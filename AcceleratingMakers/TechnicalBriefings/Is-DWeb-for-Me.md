@@ -129,3 +129,4 @@ For organizations that value horizontal as opposed to vertical leadership or tho
 _This document is supported by an award from the [Filecoin Foundation for the Decentralized Web](https://ffdweb.org/). \
  \
 Public Good App House is a project of Caravan Studios, a division of TechSoup._
+[Is DWeb for Me 2024-07-03.pdf](https://github.com/user-attachments/files/16087200/Is.DWeb.for.Me.2024-07-03.pdf)
