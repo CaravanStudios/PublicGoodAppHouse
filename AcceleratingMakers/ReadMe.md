@@ -73,7 +73,7 @@ Nonprofits & Civil Society Organizations have the opportunity to:
 * **Upgrade their tech stack** to be more resilient and adaptable
 * **Learn technology applications** and bring experience back to your organization 
 * **Co-create purposeful tools** instead of making due with the 'standard'
-* **Become self-sufficient **and take control of the tech you use
+* **Become self-sufficient** and take control of the tech you use
 
 # Community Programming
 
