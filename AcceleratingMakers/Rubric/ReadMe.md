@@ -1,7 +1,7 @@
 # Public Good Technology Rubric
 ## A self-assessment for makers of purpose-built tools for civil society
 
-_We will be holding consultations and [collecting feedback from stakeholders](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/AcceleratingMakers/Rubric/RubricFeedback.md) over the coming months. To offer feedback, you can fork this document in GitHub, or email comments to [MakerLabs@TechSoup.org](mailto:MakerLabs@TechSoup.org)._
+_We will be holding consultations and [collecting feedback from stakeholders](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/AcceleratingMakers/Rubric/RubricFeedback.md) over the coming months. To offer feedback, you can fork this document in GitHub, or email comments to PublicGoodAppHouse@TechSoup.org_
 
 
 # What is Public Good Technology?
