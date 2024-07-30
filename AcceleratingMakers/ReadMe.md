@@ -51,7 +51,7 @@ Regardless of what makers are building, if it’s intended to support public goo
 2. Subscribe to our [Maker newsletter](https://page.techsoup.org/pgah-makers-subscribe)
 3. Offer feedback on our draft [Public Good Technology Rubric](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/AcceleratingMakers/PublicGoodTechnologyRubric.md)
 4. [Download our DWeb explainers, guides and use cases](https://acceleratingmakers.publicgoodapphouse.org/resources)
-5. Email us with your projects or ideas around what you want to learn about at upcoming events. You can email us directly at makerlabs@techsoup.org
+5. Email us with your projects or ideas around what you want to learn about at upcoming events. You can email us directly at PublicGoodAppHouse@TechSoup.org
 
 # The Mission
 
