@@ -154,6 +154,6 @@ The teams at Starling Lab and the USC Shoah Foundation deployed the Starling Fra
 
 This series of decentralized web Explainers are designed to introduce civil society decision-makers to the core concepts of Web3 and DWeb.
 
-We encourage your suggestions and edits. You can submit a change with a pull request in GitHub, or email MakerLabs@TechSoup.org
+We encourage your suggestions and edits. You can submit a change with a pull request in GitHub, or email PublicGoodAppHouse@TechSoup.org
 
 _These use cases are supported by an award from the [﻿Filecoin Foundation for the Decentralized Web](https://ffdweb.org/)._
