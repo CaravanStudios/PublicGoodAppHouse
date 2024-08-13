@@ -6,8 +6,8 @@ By working closely with a targeted network of DWeb makers, GLAM innovators, and 
 
 We will empower GLAM Makers and institutions to preserve and share underrepresented histories, challenge dominant narratives, and promote a more inclusive understanding of our collective past. The resulting Memory Projects will serve as powerful proof points, aiming to inspire further adoption, demonstrating the impact of decentralized technologies in the cultural heritage sector.
 
-##Get Involved
+## Get Involved
 Interested in speaking or hosting an event over the course of this project? Reach out to Billy Bicket at bbicket@techsoup.org to learn more.
 
-##Background
+## Background
 * [DWeb for Community Archives White Paper](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/88dd436906943c42353dbc7e17dcc282702c9c42/AcceleratingMakers/Research/Community-Archives-White-Paper.md)
