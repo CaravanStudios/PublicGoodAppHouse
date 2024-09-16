@@ -37,8 +37,6 @@ Our thinking about a framework is, so far, based on the structure defined in Tar
 
 Of the five areas listed below, three were taken from Power to the Public: Design, Data, and Delivery. Over the course of our engagement in this work, TechSoup has added Impact and Community. Together, these comprise the foundational components from which a more rigorous framework and scoring system for building public good technology can be built.
 
-We’d love your feedback on this rubric. Feel free to reach out to us at [makerlabs@techsoup.org](mailto:makerlabs@techsoup.org).
-
 
 # Design
 
