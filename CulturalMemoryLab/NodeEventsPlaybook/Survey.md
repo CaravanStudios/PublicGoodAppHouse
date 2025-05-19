@@ -56,5 +56,3 @@ Please rank your confidence change for each aspect using the following scale:
 ## 6. What change or improvement would you suggest for our next event?
 
 *Open-ended response*
-
-Let me know if you’d like it saved as a .md file or adapted further.
