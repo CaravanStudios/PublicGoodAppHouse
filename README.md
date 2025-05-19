@@ -4,7 +4,8 @@
 
 * [Public Good App House website](https://www.publicgoodapphouse.org/)
 * [Accelerating Makers project website](https://acceleratingmakers.publicgoodapphouse.org/)
-* [GitHub: Accelerating Makers](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/8465f5c0c843ff93e06ad805486d6dffac129d4c/AcceleratingMakers)
+* [GitHub: Accelerating Makers](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/8465f5c0c843ff93e06ad805486d6dffac129d4c/AcceleratingMakers) - a series of content and conversations introducing nonprofits to the Decentralized Web
+* [GitHub: Cultural Memory Lab](https://github.com/CaravanStudios/PublicGoodAppHouse/tree/91292287b9002d96d37b86af54906920969ac92f/CulturalMemoryLab) - an incubator empowering community-based archives, libraries, museums, and other cultural organizations to explore decentralized strategies for preserving collective memory
 * [Awesome List of DWeb use cases](https://github.com/CaravanStudios/awesome)
 * [A web3 sandbox project showcasing basic IPFS upload and listing functionality using Web.storage/Filecoin and Vue.js](https://github.com/CaravanStudios/web3-storage-vue)
 
