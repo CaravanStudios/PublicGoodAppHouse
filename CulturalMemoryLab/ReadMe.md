@@ -1,4 +1,4 @@
-##An incubator empowering community-based archives, libraries, museums, and other cultural organizations to explore decentralized strategies for preserving collective memory.
+## An incubator empowering community-based archives, libraries, museums, and other cultural organizations to explore decentralized strategies for preserving collective memory.
 
 Throughout history, the stories that shape our collective memory have often been dictated by those in positions of power. However, a growing movement of community-driven and grassroots archiving practices are working to widen the aperture through which we view the past. These decentralized, participatory approaches to cultural memory acknowledge the diversity of human experience and empower marginalized communities to take ownership over their own histories.
 
