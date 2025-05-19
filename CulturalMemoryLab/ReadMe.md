@@ -1,0 +1,9 @@
+##An incubator empowering community-based archives, libraries, museums, and other cultural organizations to explore decentralized strategies for preserving collective memory.
+
+Throughout history, the stories that shape our collective memory have often been dictated by those in positions of power. However, a growing movement of community-driven and grassroots archiving practices are working to widen the aperture through which we view the past. These decentralized, participatory approaches to cultural memory acknowledge the diversity of human experience and empower marginalized communities to take ownership over their own histories.
+
+As this vital work of enriching historical narratives evolves, emerging decentralized technologies may serve as critical infrastructure. Peer-to-peer networking, distributed file storage, and blockchain-based platforms offer new modalities for collecting, preserving, and sharing community-generated cultural artifacts outside of centralized control. The Cultural Memory Lab will help projects explore how these tools can help democratize access to history enabling disparate voices to come together to construct a more pluralistic understanding of the past.
+
+[Gray Area](https://grayarea.org/), [TechSoup](https://www.techsoup.org/), and the [Filecoin Foundation for the Decentralized Web](https://ffdweb.org/) have teamed up to launch the Cultural Memory Lab, an incubator and microgranting program that seeks to sustain publicly accessible digital archives. The Cultural Memory Lab invites organizations from around the world to propose a project that leverages decentralized technologies to preserve stories historically excluded from archival practices. Selected projects will receive up to $5,000 in funding, access to Gray Area’s DWeb for Creators course, and dedicated technical support from the Filecoin Foundation for the Decentralized Web.
+
+_The application window for the Cultural Memory Lab has now closed._
