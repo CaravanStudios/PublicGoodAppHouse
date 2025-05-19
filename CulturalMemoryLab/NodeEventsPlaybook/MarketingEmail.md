@@ -1,12 +1,5 @@
 # **Template: Marketing Email 1**
 
-| Email Tracker |  |  |  |
-| :---- | :---- | :---- | :---- |
-| ![No type][image1] Audience/list | \~ no. of recipients | ![Dates][image2] Date | ![No type][image1] Published |
-|  |  | Date | No |
-|  |  | Date | No |
-|  |  | Date | No |
-
 **Subject:** Unlock the Future of Digital Preservation: Free Workshop for Archivists
 
 **Header:** Introducing Galleries, Libraries, Archives, and Museums to the Decentralized Web and Storage
