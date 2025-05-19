@@ -45,7 +45,7 @@ By hosting a DWeb Node event, your organization can:
    Review the folders for Event 1 (Intro webinar) and Event 2 (Hands-on workshop). You’ll find everything from email templates to speaking outlines.
 
 2. **Use the Planning Timeline**  
-   Our [Event Planning Designated Timeline](#event-planning-designated-timeline) provides a week-by-week guide to help you stay on track.
+   Our Event Planning Timeline provides a week-by-week guide to help you stay on track.
 
 3. **Host Your Events**  
    Customize your content, promote through your networks, and deliver high-quality events that engage and inspire.
