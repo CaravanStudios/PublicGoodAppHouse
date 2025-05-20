@@ -46,131 +46,125 @@ The unique combination of technical expertise, creative vision, historical resou
 
 # **Success Metrics and Evaluation Methods for Grey Area & TechSoup Contributors**
 
-The primary metrics we’re focused on with Grey Area are around the 
+The primary metrics we’re focused on with Grey Area are around the: 
 
 ## **1\. Engagement and Outreach (TechSoup)**
 
 ### **Metrics:**
 
-* # Number of GLAM institutions engaged (Target: 50+)
+* Number of GLAM institutions engaged (Target: 50+)
 
-* # Number of DWeb leaders involved (Target: 5+)
+* Number of DWeb leaders involved (Target: 5+)
 
-* # Attendance at public events/webinars (Target: Average 100+ per event)
+* Attendance at public events/webinars (Target: Average 100+ per event)
 
 ### **Evaluation Methods:**
 
-* # Track outreach efforts and responses
+*  Track outreach efforts and responses
 
-* # Monitor event registration and attendance
+*  Monitor event registration and attendance
 
-* # Conduct post-event surveys for feedback
+* Conduct post-event surveys for feedback
 
 ## **2\. Cultural Memory Projects Lab Experience (Grey Area)**
 
 ### **Metrics:**
 
-* # Number of quality Cohort applications received (Target: 20+)
+* Number of quality Cohort applications received (Target: 20+)
 
-* # Completion rate of selected projects (Target: 100%)
+* Completion rate of selected projects (Target: 100%)
 
-* # Participant satisfaction rating (Target: 4.5/5)
+* Participant satisfaction rating (Target: 4.5/5)
 
 ### **Evaluation Methods:**
 
-* # Assess application quality using predefined criteria
+* Assess application quality using predefined criteria
 
-* # Track project milestones and final outcomes
+* Track project milestones and final outcomes
 
-* # Conduct mid-term and final surveys with cohort participants
+* Conduct mid-term and final surveys with cohort participants
 
 ## **3\. Technology Adoption (Grey Area)** 
 
 ### **Metrics:**
 
-* # Number of projects successfully implementing Filecoin/IPFS (Target: 3-5 Projects)
+* Number of projects successfully implementing Filecoin/IPFS (Target: 3-5 Projects)
 
-* # Volume of data stored using decentralized technologies (Target: Set baseline in mid-November, 2024 when we have better idea of cohort participation criteria, etc)
+* Volume of data stored using decentralized technologies (Target: Set baseline in mid-November, 2024 when we have better idea of cohort participation criteria, etc)
 
 ### **Evaluation Methods:**
 
-* # Regular check-ins with project teams
+* Regular check-ins with project teams
 
 ## **4\. Knowledge Sharing and Content Creation (Grey Area & TechSoup)**
 
 ### **Metrics:**
 
-* # Downloads/views of "Decentralized Solutions for Cultural Memory 101" guidebook (Target: 100+ in first 3 months)
+* Downloads/views of "Decentralized Solutions for Cultural Memory 101" guidebook (Target: 100+ in first 3 months)
 
 * # Engagement with case studies and blog posts (Target: 500+ views per post, 10+ comments)
 
 ### **Evaluation Methods:**
 
-* # Track content distribution and consumption analytics
+* Track content distribution and consumption analytics
 
-* # Monitor and analyze reader feedback and comments
+* Monitor and analyze reader feedback and comments
 
 ## **5\. Community Building (TechSoup)** 
 
 ### **Metrics:**
 
-* # Active participants in events and online forum (Target: 100+ Quarterly active users)
+* Active participants in events and online forum (Target: 100+ Quarterly active users)
 
-* # Cross-institution collaborations initiated (Target: 2+)
+* Cross-institution collaborations initiated (Target: 2+)
 
 ### **Evaluation Methods:**
 
-* # Analyze community forum activity and engagement metrics
+* Analyze community forum activity and engagement metrics
 
-* # Track and document collaborative initiatives
+* Track and document collaborative initiatives
 
 ## **6\. Micro-grant Program (Grey Area & TechSoup)**
 
 ### **Metrics:**
 
-* # Number of micro-grants awarded (Target: 3-5)
+* Number of micro-grants awarded (Target: 3-5)
 
-* # Successful completion of micro-grant projects (Target: 100%)
+* Successful completion of micro-grant projects (Target: 100%)
 
 ### **Evaluation Methods:**
 
-* # Track application process and grant distribution
+* Track application process and grant distribution
 
-* # Evaluate final reports from grant recipients
+* Evaluate final reports from grant recipients
 
 ## **7\. Long-term Impact (Grey Area & TechSoup)**
 
 ### **Metrics:**
 
-* # Number of GLAM institutions planning to continue using decentralized technologies (Target: 80% of participants)
+* Number of GLAM institutions planning to continue using decentralized technologies (Target: 80% of participants)
 
-* # Increase in awareness of decentralized technologies in GLAM sector (Target: 25% increase from baseline)
+* Increase in awareness of decentralized technologies in GLAM sector (Target: 25% increase from baseline)
 
 ### **Evaluation Methods:**
 
-* # Conduct follow-up surveys 3 and 6 months post-project
+* Conduct follow-up surveys 3 and 6 months post-project
 
-* # Analyze changes in sector-wide discussions and initiatives
+* Analyze changes in sector-wide discussions and initiatives
 
 ## **8\. Partnership Effectiveness (Grey Area & TechSoup)**
 
 ### **Metrics:**
 
-* # Timely completion of joint deliverables (Target: 90% on time)
+* Timely completion of joint deliverables (Target: 90% on time)
 
-* # Team satisfaction with collaboration (Target: 4.5/5 for both TechSoup and Grayarea teams)
+* Team satisfaction with collaboration (Target: 4.5/5 for both TechSoup and Grayarea teams)
 
 ### **Evaluation Methods:**
 
-* # Regular project timeline reviews
+* Regular project timeline reviews
 
-* # Conduct internal team surveys and feedback sessions
-
-# Amended Project Phases and Metrics
-
-# HERE
-
-# 
+* Conduct internal team surveys and feedback sessions
 
 # Key Stakeholders, Roles
 
