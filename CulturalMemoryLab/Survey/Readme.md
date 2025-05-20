@@ -1,70 +1,137 @@
-# Exploring Decentralized Storage Readiness in GLAM Organizations
+# GLAM Institutions and Decentralized Storage: What the Data Tells Us
 
-In late 2024, TechSoup and partners conducted a targeted survey of galleries, libraries, archives, and museums (GLAM) to assess their awareness, challenges, and readiness to adopt decentralized storage technologies such as Filecoin and IPFS. This initiative aimed to better understand the digital preservation needs of civil society memory institutions and to identify where support could have the greatest impact. The survey reached out to organizations with an existing interest in decentralized technologies or a public digital archive, resulting in 24 qualified responses that offer a unique glimpse into the current state of adoption and aspiration in the field.
+In late 2024, TechSoup and partners conducted a survey of galleries, libraries, archives, and museums (GLAM) to understand their awareness, needs, and readiness around decentralized storage technologies like Filecoin and IPFS. The survey gathered 24 qualified responses from GLAM organizations with a public-facing mission, many of whom manage or are exploring digital archives.
 
-## Organizational Identity and Structure
+This document shares a data-informed look at their current state of adoption, perceived barriers, and appetite for support.
 
-Respondents represented a wide spectrum of GLAM institutions:
-* Libraries were the most represented group, followed by archives, galleries, and museums.
-* Several organizations identified as operating with hybrid missions—delivering both services and grantmaking, or simply describing themselves as "Other."
+---
 
-This diversity in structure reflects the flexible and often interdisciplinary nature of GLAM organizations, especially smaller institutions that wear many hats.
+## Who We Heard From
 
-**Insight:** Decentralized storage solutions must be adaptable to a variety of organizational contexts—from service-focused community libraries to collections-focused archives.
+Participants represented a range of institution types:
 
-## Digital Archive Presence and Purpose
+* **Libraries** — 63%
+* **Archives** — 25%
+* **Museums** — 29%
+* **Galleries** — 4%
 
-* About half of respondents manage a public digital archive.
-* The primary purposes cited for these archives were:
-  * Historical preservation
-  * Educational access
-  * Community engagement and storytelling
+In terms of organizational structure:
 
-**Insight:** GLAM organizations are not archiving for compliance or administrative reasons alone—they are stewards of community memory. Any storage solution must support narrative and interpretive access, not just file hosting.
+* **Libraries** — 50%
+* **Program-delivering orgs** — 25%
+* **Other** — 17%
+* **Hybrid orgs or research-focused** — 8%
 
-## Key Challenges to Access and Sustainability
+**Insight:** Most respondents come from public or service-oriented institutions, with a strong lean toward libraries. This suggests that outreach for decentralized storage should prioritize libraries while adapting to the needs of mixed-model GLAM orgs.
 
-Respondents identified multiple pain points related to maintaining digital archives:
-* Data loss and backup concerns
-* Difficulty using current tools
-* Lack of technical expertise
-* High storage costs
-* Worries about losing control when working with large tech vendors
+---
 
-**Insight:** The appetite for decentralized storage is not just about innovation—it's a response to real frustrations with fragility, affordability, and autonomy in digital infrastructure.
+## Who Has a Digital Archive?
 
-## Awareness and Current Use of Decentralized Storage
+* **79%** of respondents said their organization **manages a public digital archive**
+* **21%** do not currently maintain one
 
-* Just under half of respondents were familiar with decentralized technologies like Filecoin, IPFS, or LOCKSS.
-* Very few organizations currently use decentralized storage, but a number expressed interest in learning more.
+Among those with archives, the primary stated purposes were:
 
-**Insight:** Awareness is still limited, but openness is high. There's a clear opportunity for capacity-building and community education.
+* **Historical preservation** — 68%
+* **Educational resource** — 21%
+* **Community engagement or other** — 11%
 
-## Perceived Benefits and Risks
+**Insight:** The dominant role of archives in historical preservation reinforces the need for durable, trustworthy storage solutions. Any new system must ensure long-term integrity and access.
 
-Respondents saw strong potential in decentralized storage, especially in:
-* Enhancing data security and privacy
-* Reducing dependency on major tech platforms
-* Increasing redundancy and access
+---
 
-At the same time, concerns were voiced around:
-* Technical complexity
-* Cost predictability
-* Integration with existing systems
+## Familiarity with Decentralized Storage
 
-**Insight:** The benefits of decentralized storage resonate with core values of GLAM organizations—autonomy, accessibility, preservation. However, adoption will require technical guidance and reassurance around long-term sustainability.
+When asked about decentralized technologies like Filecoin, IPFS, or LOCKSS:
 
-## Appetite for Support and Community
+* **17%** are already familiar  
+* **33%** are **not familiar, but interested in learning more**  
+* **50%** are **not familiar at all**
 
-Interest in future engagement was strong:
-* Most respondents said they would like to be notified about upcoming trainings or workshops
-* A majority would consider joining a supported cohort to explore decentralized storage in more depth
-* Some organizations remain uncertain, signaling the need for clear case studies and low-barrier pilot opportunities
+Current usage of decentralized storage:
 
-**Insight:** The GLAM sector is curious and cautious—ready to explore, but looking for structured, trusted support. They are more likely to adopt new systems in a community setting than in isolation.
+* **Yes** — 17%  
+* **No, but interested** — 17%  
+* **No** — 66%
 
-## Conclusion
+**Insight:** While awareness is low, curiosity is high. Education and capacity-building remain the most urgent next steps.
 
-This survey reinforces what we’ve heard anecdotally: GLAM institutions are deeply invested in the preservation and accessibility of community memory, and they are actively seeking more sustainable, ethical, and resilient digital infrastructure. While decentralized storage is still emerging within the sector, there is significant potential for uptake—especially if onboarding includes peer support, storytelling, and alignment with mission-driven goals.
+---
 
-TechSoup and our partners are committed to bridging the gap between decentralized technology and the cultural sector. Whether through hands-on workshops, exploratory cohorts, or toolkits for implementation, we’re building the pathways that allow these vital organizations to preserve the past with the technologies of the future.
+## Perceived Challenges and Needs
+
+Common pain points identified in managing digital archives include:
+
+* **Data loss or backup issues**
+* **Lack of technical expertise**
+* **Tool usability problems**
+* **Storage costs**
+* **Concerns over vendor lock-in**
+
+**Insight:** GLAM institutions are already experiencing the limitations of centralized systems. Decentralized solutions could offer both resilience and autonomy—if implementation hurdles are addressed.
+
+---
+
+## Appetite for Support and Community-Based Adoption
+
+When asked about interest in structured support from TechSoup and its partners:
+
+* **Yes** — 35%  
+* **Uncertain** — 41%  
+* **No** — 24%
+
+When asked about joining a private cohort:
+
+* **Yes** — 6%  
+* **Uncertain** — 65%  
+* **No** — 29%
+
+When asked if they'd like to be notified about future workshops:
+
+* **Yes** — 94%  
+* **No** — 6%
+
+**Insight:** Light-touch engagement like workshops and community calls are highly welcome. Organizations are not yet ready for high-commitment programs—but many are warming up to the idea.
+
+---
+
+## Willingness to Stay Engaged
+
+* **88%** of organizations are open to follow-up conversations
+
+**Insight:** There is strong goodwill and openness to further learning. This gives us a foundation for relationship-building and long-term collaboration.
+
+---
+
+## Conclusion: Education, Trust, and Timing Are Key
+
+This survey shows that GLAM institutions care deeply about digital preservation and are looking for alternatives to centralized, commercial cloud storage. While only a small portion currently use decentralized storage, a majority are open to learning more—and many are eager for resources and support.
+
+The path forward includes:
+
+* Building introductory workshops  
+* Sharing real-world case studies  
+* Offering low-barrier cohort opportunities  
+* Supporting peer learning and storytelling
+
+By doing so, we can empower GLAMs to preserve cultural memory using technology that aligns with their values.
+
+---
+
+## License
+
+This document is published under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+
+* **Share** — copy and redistribute the material in any medium or format  
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
+
+Under the following terms:
+
+* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+**This report is part of TechSoup’s Cultural Memory Lab initiative to support the cultural heritage sector in exploring resilient, community-aligned digital preservation technologies.**
