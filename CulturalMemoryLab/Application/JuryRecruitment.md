@@ -1,4 +1,4 @@
-##Jurist Recruitment Email
+## Jurist Recruitment Email
 
 Dear \[insert name\],
 
