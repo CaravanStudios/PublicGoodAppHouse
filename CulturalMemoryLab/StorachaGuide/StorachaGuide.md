@@ -102,7 +102,7 @@ This folder contains oral history transcripts collected by the Rising Voices Pro
 - **Summary:** Parveen reflects on the role of food in maintaining cultural identity and shares her family's traditional preservation techniques.
 ```
 
-| NOTE: We recommend that you also create an index.html file. This allows you to design a custom homepage for your archive — improving usability, context, and presentation.  See the appendix section [Create an index.html Homepage for Your Archive](#create-an-index.html-homepage-for-your-archive) |
+| NOTE: We recommend that you also create an index.html file. This allows you to design a custom homepage for your archive — improving usability, context, and presentation.  See the appendix section "Create an index.html Homepage for Your Archive". |
 | :---- |
 
 ---
@@ -117,21 +117,29 @@ This step will generate a unique **CID (Content Identifier)** for your folder. C
 
 If you'd like to explore your IPFS content beyond browser gateways, you can use IPFS Desktop — a free, open-source tool that makes it easy to manage and share files from your own IPFS node.
 
-1. Go to [Storacha.network](https://storacha.network) and click ***Start Storing***!<br><img width="400" alt="image1" src="https://github.com/user-attachments/assets/d4330641-a69e-4f3c-9fe0-b7cd2b5385a4" />
-2. Enter your email to verify your account![][image2]  
-3. Click the verification link in your inbox ![][image3]  
-4. Select the Starter plan and click ***Subscribe***![][image4]  
-5. Add a payment method — **you won’t be charged** unless you go over the free 5 GB (this is very unlikely for 20 files, but you should double check the size of the files you are uploading to be certain).  
-     ![][image5]  
-6. Create a new *Space (we recommend your project name)* ![][image6]![][image7]  
-7. Upload your folder (not just individual files)![][image8]  
+1. Go to [Storacha.network](https://storacha.network) and click ***Start Storing***!<br><img width="400" src="https://github.com/user-attachments/assets/d872ad10-dbde-418c-916a-615fda3157da" />
+
+2. Enter your email to verify your account <br> <img width="400" src="https://github.com/user-attachments/assets/2cd0891d-bd22-49da-bb91-5a29c07cbc05" />
+
+3. Click the verification link in your inbox <br>  <img width="400" src="https://github.com/user-attachments/assets/e4671122-4836-4ae2-89a7-c26825cb0d4b" />
+
+4. Select the Starter plan and click ***Subscribe*** <br> <img width="400" src="https://github.com/user-attachments/assets/2f1fb49b-5052-4b5e-bad2-116f0de57d7f" />
+
+5. Add a payment method — **you won’t be charged** unless you go over the free 5 GB (this is very unlikely for 20 files, but you should double check the size of the files you are uploading to be certain).  <br> <img width="400" src="https://github.com/user-attachments/assets/7217c69b-6893-4882-b663-50dfb7bd0efc" />
+
+6. Create a new *Space (we recommend your project name)* <img width="400" src="https://github.com/user-attachments/assets/c890c759-cbc8-4c79-9d97-31d0f4bce8c7" />
+
+7. Upload your folder (not just individual files)<br> <img width="400" src="https://github.com/user-attachments/assets/3b6c1354-31bf-4fe4-a4d1-859d1329394b" />
+
 1. Click ***Upload***  
 2. Select Directory (if you’re uploading a folder, rather than an individual file)  
 3. Add your folder  
 4. Click ***Start Upload***  
 5. To to UPLOADS to see your folder  
-8. Storacha will return a **CID** (Content Identifier for the folder)![][image9]  
-9. Click the URL to open the Gateway, a webpage that can be accessed by any browser, making your files on IPFS and Filecoin accessible to those unfamiliar with IPFS.![][image10]  
+8. Storacha will return a **CID** (Content Identifier for the folder) <br> <img width="400" src="https://github.com/user-attachments/assets/758501b2-ac46-4599-99cc-43093fa85589" />
+
+9. Click the URL to open the Gateway, a webpage that can be accessed by any browser, making your files on IPFS and Filecoin accessible to those unfamiliar with IPFS. <img width="400" src="https://github.com/user-attachments/assets/780c48a1-bdf8-470b-951d-add4c5d72404" />
+
 10. You can either share the folder OR individual files, which will have their own CIDs.  
 11. To retrieve the IPFS gateway link for any of your individual files, right click and select ***Copy Link Address**.*  
 12. Now that you have your IPFS gateway link you can add it to your existing websites or storage platforms.
@@ -229,7 +237,8 @@ We recommend that all Cultural Memory Lab participants adopt the [3-2-1-1-0 mode
 * **0 \= Ensure Zero Backup Errors**  
    Monitor and test your backups regularly. Run restore checks and make sure backups complete without errors so that you're ready if you ever need to recover.
 
-![][image11]
+<br> <img width="800" src="https://github.com/user-attachments/assets/4305b4a1-dce3-4860-ae4e-8454e0f34966" />
+
 
 This expanded approach prepares you not just for data loss, but for emerging cyber threats and long-term accessibility. By implementing 3-2-1-1-0, you ensure that your digital collections remain protected, retrievable, and trustworthy.
 
