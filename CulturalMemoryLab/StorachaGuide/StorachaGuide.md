@@ -102,7 +102,7 @@ This folder contains oral history transcripts collected by the Rising Voices Pro
 - **Summary:** Parveen reflects on the role of food in maintaining cultural identity and shares her family's traditional preservation techniques.
 ```
 
-| NOTE: We recommend that you also create an index.html file. This allows you to design a custom homepage for your archive — improving usability, context, and presentation.  [See the appendix section Create an index.html Homepage for Your Archive](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/CulturalMemoryLab/StorachaGuide/StorachaGuide.md#create-an-indexhtml-homepage-for-your-archive-create-an-indexhtml-homepage-for-your-archive). |
+| NOTE: We recommend that you also create an index.html file. This allows you to design a custom homepage for your archive — improving usability, context, and presentation. See the appendix section [Create an index.html Homepage for Your Archive](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/CulturalMemoryLab/StorachaGuide/StorachaGuide.md#create-an-indexhtml-homepage-for-your-archive-create-an-indexhtml-homepage-for-your-archive). |
 | :---- |
 
 ---
@@ -127,7 +127,7 @@ If you'd like to explore your IPFS content beyond browser gateways, you can use 
 
 5. Add a payment method — **you won’t be charged** unless you go over the free 5 GB (this is very unlikely for 20 files, but you should double check the size of the files you are uploading to be certain).  <br> <img width="400" src="https://github.com/user-attachments/assets/7217c69b-6893-4882-b663-50dfb7bd0efc" />
 
-6. Create a new *Space (we recommend your project name)* <img width="400" src="https://github.com/user-attachments/assets/c890c759-cbc8-4c79-9d97-31d0f4bce8c7" />
+6. Create a new *Space (we recommend your project name)* <br> <img width="400" src="https://github.com/user-attachments/assets/c890c759-cbc8-4c79-9d97-31d0f4bce8c7" />
 
 7. Upload your folder (not just individual files)<br> <img width="400" src="https://github.com/user-attachments/assets/3b6c1354-31bf-4fe4-a4d1-859d1329394b" />
 
@@ -138,7 +138,7 @@ If you'd like to explore your IPFS content beyond browser gateways, you can use 
 5. To to UPLOADS to see your folder  
 8. Storacha will return a **CID** (Content Identifier for the folder) <br> <img width="400" src="https://github.com/user-attachments/assets/758501b2-ac46-4599-99cc-43093fa85589" />
 
-9. Click the URL to open the Gateway, a webpage that can be accessed by any browser, making your files on IPFS and Filecoin accessible to those unfamiliar with IPFS. <img width="400" src="https://github.com/user-attachments/assets/780c48a1-bdf8-470b-951d-add4c5d72404" />
+9. Click the URL to open the Gateway, a webpage that can be accessed by any browser, making your files on IPFS and Filecoin accessible to those unfamiliar with IPFS. <br>  <img width="400" src="https://github.com/user-attachments/assets/780c48a1-bdf8-470b-951d-add4c5d72404" />
 
 10. You can either share the folder OR individual files, which will have their own CIDs.  
 11. To retrieve the IPFS gateway link for any of your individual files, right click and select ***Copy Link Address**.*  
