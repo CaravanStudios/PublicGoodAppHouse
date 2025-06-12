@@ -117,7 +117,7 @@ This step will generate a unique **CID (Content Identifier)** for your folder. C
 
 If you'd like to explore your IPFS content beyond browser gateways, you can use IPFS Desktop — a free, open-source tool that makes it easy to manage and share files from your own IPFS node.
 
-1. Go to [Storacha.network](https://storacha.network) and click ***Start Storing***!<img width="480" alt="image1" src="https://github.com/user-attachments/assets/d4330641-a69e-4f3c-9fe0-b7cd2b5385a4" />
+1. Go to [Storacha.network](https://storacha.network) and click ***Start Storing***!<br><img width="400" alt="image1" src="https://github.com/user-attachments/assets/d4330641-a69e-4f3c-9fe0-b7cd2b5385a4" />
 2. Enter your email to verify your account![][image2]  
 3. Click the verification link in your inbox ![][image3]  
 4. Select the Starter plan and click ***Subscribe***![][image4]  
