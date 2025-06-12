@@ -102,7 +102,7 @@ This folder contains oral history transcripts collected by the Rising Voices Pro
 - **Summary:** Parveen reflects on the role of food in maintaining cultural identity and shares her family's traditional preservation techniques.
 ```
 
-| NOTE: We recommend that you also create an index.html file. This allows you to design a custom homepage for your archive — improving usability, context, and presentation.  See the appendix section "Create an index.html Homepage for Your Archive". |
+| NOTE: We recommend that you also create an index.html file. This allows you to design a custom homepage for your archive — improving usability, context, and presentation.  [See the appendix section Create an index.html Homepage for Your Archive](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/main/CulturalMemoryLab/StorachaGuide/StorachaGuide.md#create-an-indexhtml-homepage-for-your-archive-create-an-indexhtml-homepage-for-your-archive). |
 | :---- |
 
 ---
