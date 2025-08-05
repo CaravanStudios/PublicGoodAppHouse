@@ -1,5 +1,5 @@
 # **Cultural Memory Lab Guide: Uploading Public Collections to IPFS with Storacha.network**
-> Also available as a [downloadable .PDF](CulturalMemoryLab/StorachaGuide/Cultural Memory Lab Guide_Uploading Public Collections to IPFS with Storacha 2025-08-05.pdf)
+> Also available as a [downloadable .PDF](https://github.com/CaravanStudios/PublicGoodAppHouse/blob/4add498696811cf6f71624dc843494c62f0b021c/CulturalMemoryLab/StorachaGuide/Cultural%20Memory%20Lab%20Guide_Uploading%20Public%20Collections%20to%20IPFS%20with%20Storacha%202025-08-05.pdf)
 
 The **Cultural Memory Lab** supports community archives, libraries, and cultural organizations in preserving shared histories using decentralized technologies. By leveraging tools like **IPFS** and **Filecoin**, we help participants make their public collections accessible, resilient, and independent of centralized platforms.
 
