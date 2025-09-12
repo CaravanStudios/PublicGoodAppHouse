@@ -10,13 +10,15 @@ Use this archive to revisit insights, share learnings, and inspire future digita
 
 | Date & Time | Host / Location | Event | Leads | Replay / Slides |
 | :---------- | :-------------- | :-----| :-----| :-------------- |
-| **Dec 10, 2024**<br>10:00–11:00 AM PST | TechSoup Public Good App House (Online) | [Preserving Community Histories: Advancing Ethical Digital Storage Solutions](https://events.techsoup.org/events/details/techsoup-public-good-app-house-presents-preserving-community-histories-advancing-ethical-digital-storage-solutions/cohost-public-good-app-house) | TechSoup / FFDW | [Replay](https://www.youtube.com/watch?v=-cSWr9W9-5s) |
-| **Feb 12–13, 2025**<br>7:00 PM PST / 10:00 AM Chiang Mai | Dev Lewis / digi-cnx (Chiang Mai, Thailand) | [Decentralized Storage for High-Censorship Environments](https://events.techsoup.org/e/mv92kq/) | Dev Lewis, Adam Rose | [Replay](https://www.youtube.com/watch?v=ZdXw-DleaXU) • [Slides](https://docs.google.com/presentation/d/1GEAwG1YdU5Lai6G3cch-utBl57rF76AfGmzc1HXNLcA/edit#slide=id.g330bafb1b71_0_160) |
-| **Feb 18, 2025**<br>9:45–11:30 AM (Chiang Mai Time) | Chiang Mai University | [Hands-on with Decentralized Storage](https://events.techsoup.org/e/mpb2az/) | Dev Lewis | In-person event - no recording • [Slides](https://docs.google.com/presentation/d/1Qwx3SpsPouTdfr1D48poM8t7kgTneS6eefyKLzlWHw4/edit?usp=sharing) |
-| **Feb 20, 2025**<br>1:00–3:00 PM PT | 221A (Vancouver) | [Intro to Decentralized Storage for GLAM](https://events.techsoup.org/e/m6xcrx/) | Jesse McKee, Vincent Charlebois, Andi Argast, Chad Kohalyk | [Replay](https://www.youtube.com/watch?v=uVj1sthobOs) |
-| **Feb 27, 2025**<br>1:00–3:00 PM PT | 221A (Vancouver) | [Hands-on with Decentralized Storage](https://events.techsoup.org/e/m44eh3/) | Jesse McKee, Vincent Charlebois, Andi Argast, Chad Kohalyk | [Replay](https://www.youtube.com/watch?v=xaCP1HhVnOc) |
-| **Mar 4, 2025**<br>4:00–6:00 PM PT | Gray Area (Online) | [Intro for Bay Area GLAM Orgs](https://events.techsoup.org/e/m98bdc/) | Hannah Scott | [Replay](https://www.youtube.com/watch?v=uOPnEaXhKxM) |
-| **Mar 9, 2025**<br>1:00–4:00 PM PT | Gray Area, San Francisco | [Hands-on with Decentralized Storage](https://events.techsoup.org/e/mgmfgj/) | Hannah Scott | In-person event - no recording |
+| **Dec 10, 2024,** 10:00–11:00 AM PT | TechSoup Public Good App House (Online) | [Preserving Community Histories: Advancing Ethical Digital Storage Solutions](https://events.techsoup.org/events/details/techsoup-public-good-app-house-presents-preserving-community-histories-advancing-ethical-digital-storage-solutions/cohost-public-good-app-house) | TechSoup / FFDW | [Replay](https://www.youtube.com/watch?v=-cSWr9W9-5s) |
+| **Feb 12–13, 2025,** 7:00 PM PT / 10:00 AM Chiang Mai | Dev Lewis / digi-cnx (Chiang Mai, Thailand) | [Decentralized Storage for High-Censorship Environments](https://events.techsoup.org/e/mv92kq/) | Dev Lewis, Adam Rose | [Replay](https://www.youtube.com/watch?v=ZdXw-DleaXU) • [Slides](https://docs.google.com/presentation/d/1GEAwG1YdU5Lai6G3cch-utBl57rF76AfGmzc1HXNLcA/edit#slide=id.g330bafb1b71_0_160) |
+| **Feb 18, 2025,** 9:45–11:30 AM Chiang Mai Time | Chiang Mai University | [Hands-on with Decentralized Storage](https://events.techsoup.org/e/mpb2az/) | Dev Lewis | In-person event - no recording • [Slides](https://docs.google.com/presentation/d/1Qwx3SpsPouTdfr1D48poM8t7kgTneS6eefyKLzlWHw4/edit?usp=sharing) |
+| **Feb 20, 2025,** 1:00–3:00 PM PT | 221A (Vancouver) | [Intro to Decentralized Storage for GLAM](https://events.techsoup.org/e/m6xcrx/) | Jesse McKee, Vincent Charlebois, Andi Argast, Chad Kohalyk | [Replay](https://www.youtube.com/watch?v=uVj1sthobOs) |
+| **Feb 27, 2025,** 1:00–3:00 PM PT | 221A (Vancouver) | [Hands-on with Decentralized Storage](https://events.techsoup.org/e/m44eh3/) | Jesse McKee, Vincent Charlebois, Andi Argast, Chad Kohalyk | [Replay](https://www.youtube.com/watch?v=xaCP1HhVnOc) |
+| **Mar 4, 2025,** 4:00–6:00 PM PT | Gray Area (Online) | [Intro for Bay Area GLAM Orgs](https://events.techsoup.org/e/m98bdc/) | Hannah Scott | [Replay](https://www.youtube.com/watch?v=uOPnEaXhKxM) |
+| **Mar 9, 2025,** 1:00–4:00 PM PT | Gray Area, San Francisco | [Hands-on with Decentralized Storage](https://events.techsoup.org/e/mgmfgj/) | Hannah Scott | In-person event - no recording |
+| **Sep 11, 2025,** 9:00–10:00 AM PT | TechSoup (Online) | [TechSoup Cultural Memory Lab showcase](https://events.techsoup.org/j/sbs6x85gjx3tj/) | TechSoup | [Replay](https://youtu.be/wjG3oSw9eAI) |
+
 
 ---
 
